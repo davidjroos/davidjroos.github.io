@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20180426TaupoRedwood'
+title: 'Taupo and Rotorua Redwoods'
 date: 2018-04-28 16:32:04 +1200
 category: 
 tags:
