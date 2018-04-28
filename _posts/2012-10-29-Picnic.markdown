@@ -1,0 +1,12 @@
+---
+layout: post
+title: "This is how you picnic"
+date: 2012-10-29 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: http://farm8.static.flickr.com/7602/16640291048_840cf52b5e_o.jpg
+---
+[![](http://farm6.static.flickr.com/5447/9584259237_34a0aa8068_c.jpg)](http://farm6.static.flickr.com/5447/9584259237_36b88aab63_o.jpg)
+[![](http://farm8.static.flickr.com/7342/9587051020_07db18d1fe_c.jpg)](http://farm8.static.flickr.com/7342/9587051020_4cf7999f5e_o.jpg)
+[![](http://farm6.static.flickr.com/5512/9587053000_71d2ccfb24_c.jpg)](http://farm6.static.flickr.com/5512/9587053000_38cbd53a92_o.jpg)

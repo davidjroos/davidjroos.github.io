@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Rotorua"
+date: 2006-09-04 12:00:00 +1200
+category: travel
+tags: [New Zealand]
+description: ""
+post_image: http://farm8.static.flickr.com/7637/16966748669_b55506e340_o.jpg
+---
+[![](http://farm9.static.flickr.com/8749/16524397284_711de27d76_c.jpg)](http://farm9.static.flickr.com/8749/16524397284_5a97430e46_o.jpg)
+[![](http://farm9.static.flickr.com/8758/16960598399_1c88249abb_c.jpg)](http://farm9.static.flickr.com/8758/16960598399_45a0b501ef_o.jpg)
+[![](http://farm9.static.flickr.com/8776/17145208292_d84d24e919_c.jpg)](http://farm9.static.flickr.com/8776/17145208292_658601f37f_o.jpg)
+[![](http://farm8.static.flickr.com/7709/16526628213_310f740535_c.jpg)](http://farm8.static.flickr.com/7709/16526628213_dc6842739c_o.jpg)
+[![](http://farm9.static.flickr.com/8694/17146160331_6e3e713349_c.jpg)](http://farm9.static.flickr.com/8694/17146160331_10a90f1e4f_o.jpg)
+[![](http://farm9.static.flickr.com/8820/16939390737_7baeae9e7b_c.jpg)](http://farm9.static.flickr.com/8820/16939390737_c67858e8d6_o.jpg)
+[![](http://farm8.static.flickr.com/7644/16526627123_8b64424d7f_c.jpg)](http://farm8.static.flickr.com/7644/16526627123_18dcafa495_o.jpg)
