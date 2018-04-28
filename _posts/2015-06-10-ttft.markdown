@@ -1,0 +1,227 @@
+---
+layout: post
+title: "Turntable for Thom"
+date: 2015-06-10 12:00:00 +1200
+category: thoughts
+tags: [Music]
+description: "Some considerations"
+post_image: 
+---
+OK!
+
+This is always a deeply personal topic, I feel, but we can narrow things
+down a bit based on usage and how much you want to be engaged in the
+whole 'process' (and how much you are willing to spend!) Realistically
+you are going to be limited by what is available in NZ. I got lucky.
+Things pop up. Keep an eye out.
+
+Budget
+------
+
+With enough money you can get anything you want - it all exists. I'd
+expect a nice table for \~3-400, but it's hard to gauge as popularity
+seems to have increased since I purchased mine, and with NZs limited
+market prices may have gone up.
+
+Drive Types
+-----------
+
+You'll see four types of drive mechanisms:
+
+-   Direct Drive
+-   Belt Drive
+-   Idler wheel
+-   Linear Drive
+
+Direct drive is the motor shaft driving the platter directly - the motor
+will be of the variable speed variety to allow click button speed
+changes. It's directly connected to the platter, so any variances in the
+motor, or weird noises it makes will be transmitted to the needle. The
+'greats' of the era are all direct drives.
+
+Belt drive is where the motor and platter are connected via a rubber
+belt. This is supposed to be the best for quietness and is very common
+on newer tables. [The motor can be completely removed from the turntable
+assembly keeping this very
+quiet](http://media.tas.zeitpress.com/articles/images/Pro-Ject%20RM-9.2.jpg){.link}.
+To change speeds in most cases is a matter of the belt "changing gears"
+(seen in previous picture)
+
+Idler wheels are similar to belts in that the motor drives a small
+rubber wheel which then drives the platter. In Dual (which I own) and
+some other brands the idler wheel is raised/lowered to different parts
+of the motor shaft which have [varying
+diameters](http://i.imgur.com/svsiT1ph.jpg){.link} which align to the
+various speeds. On older tables the rubber wheel can be old and brittle
+causing some slippage. Any imperfections in roundness or hardness in the
+wheel increases any audible 'rumble'.
+
+Linear drive tables also exist. This was mostly Technics and Sony in the
+late 80s (though they date back to the 60s). I've heard good things and
+they are very accurate, but good luck finding one in NZ for a decent
+price and then even more good luck keeping it running.
+
+I own an idler wheel drive and recently sold my Canadian [lower end
+direct
+drive](http://img.canuckaudiomart.com/uploads/large/946719-taya-dp500-turntable-grace-707-tonearm-shure-v15-iii.jpg){.link}[]()and
+both are\\were great, but keep an eye on the
+[stats](http://en.wikipedia.org/wiki/Wow_and_flutter_measurement){.link}.
+
+Platter Size
+------------
+
+In terms of platter sizes, you'll see 10 and 12 inch. Generally 12 is
+better, but I'd take a solid 10" over a floppy 12", if you know what I
+mean.
+
+RPMs
+----
+
+Everything will do 33 1/3, most will do 45 and some will do 78. 78 is
+only important if you will be swapping out needles and playing old-timey
+shellac (Real Groovy has TONS for pennies and it's worth investigating).
+Low (and even high) end newer players may require you to remove the
+platter and manually move the drive belt to switch from 33 1/3 to 45,
+which is lame as lots of EPs and high end/interesting stuff are at
+45rpm.
+
+Anything worth it's salt will have an adjuster dial to get the speed
+exactly right - some tables have [built in
+strobes](http://img.canuckaudiomart.com/uploads/large/946724-taya-dp500-turntable-grace-707-tonearm-shure-v15-iii.jpg){.link}
+to help with alignment, others will need a
+[printout](https://www.google.ca/search?q=turntable+strobe+printout&num=20&tbm=isch&tbo=u&source=univ&sa=X&ved=0CDYQsARqFQoTCK_orvPChcYCFUwMkgod118Arg&biw=2048&bih=994){.link}
+and a strobe light and done manually (or you can do it by ear
+easily\\close enough if you have a CD/mp3 reference to listen to at the
+same time, not that I'd do this because I'm an *audiophile* &lt;\_&lt; )
+
+Headphones or Speakers?
+-----------------------
+
+If you want to use headphones exclusively, then you'll probably need to
+spend more - you just hear EVERYTHING and if you're 'particular' it may
+drive you a bit mad and cause you to spend even more money. Anything
+using idler wheels or cheaper direct drives will be audible to some
+extent. Idler wheels you get 'rumble' and it sounds exactly like it
+sounds - very distant thunder. As mentioned, imperfections in the idler
+wheel rubber will magnify this. You can get them
+[rebuilt](http://www.terrysrubberrollers.com/){.link}[]() overseas
+though and they are cheap to mail. It's only audible in very quiet
+parts\\between tracks and doesn't really bother me - just reminds me
+that I'm on a turntable :)
+
+If you're going with speakers the majority of the time I wouldn't
+concern myself toooo much with the tiny background noises - there will
+always be some hum/crackles etc but that is analog audio and you'll be
+into the many, many thousands of dollars before you're going to start
+noticing a real change there. Better to start with shonky house wiring
+and checking that everything is earthed properly!
+
+Do you have a phono stage?
+--------------------------
+
+You'll need one. Only (some) newer turntables have them built in and
+most are not great. I assume you have nice amps and speakers though :D
+
+Fully Manual, Fully Automatic or Somewhere inbetween
+----------------------------------------------------
+
+Full manual tables are great, but you have to tend to them - eg at the
+end of a side you'll need to go and lift the needle. Some records are
+pressed by evil people that have the stickers not centred and over the
+lead out, causing the most egregious noises and potentially damaging the
+needle. There are no adjustments to be made, low maintenance and all the
+money went into making the platter, tone arm and wiring.
+
+Full automatic is not much fun either though - sometimes you'll want to
+pick a track and then you're SOL. I'm not sure if these actually exist.
+
+Semi automatic means different things - auto return is the minimum I'd
+want. I like tables that allow full auto (ie placing the needle for you
+and returning at the end) or manual start with auto return. Dual make
+absolutely beautiful mechanisms with plenty of parts available
+(overseas) and are rock solid. I have a
+[1019](https://www.youtube.com/watch?v=R5YQcNOboBE){.link} and I love it
+to bits.
+
+Materials
+---------
+
+In terms of materials,generally heavier = better. Late 80s turntables
+were plastic commodities for the most part and look and feel like shit,
+and perform accordingly. There are of course exceptions.
+
+For plinth, you're looking at the overall quality - plastic base = bad
+time, wood or veneered MDF = the people who made this cared. Wood
+obviously looks way cooler anyway. 60s\\70s vintage &gt; 80s vintage
+look...
+
+Look for a table with isolation feet or at least have the table on a
+dedicated platform, separate from the speakers.
+
+Cartridges
+----------
+
+Older ones will be well used, maybe too well used. You'd have to
+evaluate each as you came across them. Shure V15 vIII carts are rare and
+great. A lot will be replaced by newer carts, commonly the ortofon omega
+(budget and great, I own one) or Ortofon 2M Reds which I've not had the
+chance to use. Unless the cart is fucked or you are super anal about it
+all it shouldn't matter too much to start.
+
+What would I be looking at?
+---------------------------
+
+I would buy a Dual 1019 again in a heartbeat. They are affordable and
+well made, sound good etc. Lots of spare parts. I've only ever seen the
+one for sale in NZ and I own it, but that's not to say it's the only
+one.
+
+I almost dropped some big bills on a Dual 701. I think it's the [best
+looking](http://www.vinylengine.com/images/model/dual_701_top.jpg){.link}
+turntable ever made, direct drive, great tone arm etc etc etc
+
+If I was buying new I would be getting a [Debut Carbon With Ortofon
+2m](http://www.realgroovy.co.nz/Product/5733959/Pro-Ject_Debut_Carbon_with_Ortofon_2M_Red_Cartridge_%28Red%29Pro-Ject){.link}
+
+Failing that I'd be looking at the [Pro-Ject
+Elemental](http://www.project-audio.com/main.php?prod=elementalphonousb&cat=turntables&lang=en){.link}
+- they have a USB/phono-built-in model, is direct drive, good MDF
+plinth, easy switch between 33 1/3 and 45rpm and not a monstrosity. Well
+reviewed, not sure if they are available in NZ.
+
+The one I ended up with in Canada was just a budget (but reasonably)
+accurate direct drive from the 70s that had the tonearm replaced with a
+Grace 707 tone arm ([a beautiful
+thing](http://img.canuckaudiomart.com/uploads/large/946722-taya-dp500-turntable-grace-707-tonearm-shure-v15-iii.jpg){.link})
+- keep an eye out for these frankensteins and do some googling on the
+parts - you may find a bargain.
+
+Things available right now
+--------------------------
+
+Fuck all to be honest.
+
+[This one](http://www.retrotronics.co.nz/detail&id=751){.link} is really
+simple but less to go wrong. It's a good tonearm and cartridge
+
+If you find a Technics 1200 MKII for a decent price it's probably been
+abused by a DJ it's entire life and may not be great.
+
+Everything else I see on Trademe at the moment is super high end or
+plastic junk. There is a Dual 505, but that is also plastic junk.
+Plastic platter, plastic tonearm, plastic plinth. You can't even set
+them on fire in protest because you will just choke to death on the
+fumes.
+
+I would reach out to Retrotronics guy - he's really nice - just let him
+know that you're interested and he might shout when something comes
+along. He may have stuff in the pipeline/under restoration too. Did I
+mention that he is nice? He drove me home when I bought mine instead of
+letting me lug it home on the train.
+
+Failing that, just keep an eye out and get in first. Shipping is fraught
+with difficulties, especially from private (ie ebay) sales as who knows
+if they packed it properly.
+
+Don't bother with the new plastic crosleys etc, your friends will just
+laugh at you.

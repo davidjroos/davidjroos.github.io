@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Long Bay"
+date: 2007-11-13 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: http://farm9.static.flickr.com/8743/16492336864_cf718ae867_o.jpg
+---
+[![](http://farm9.static.flickr.com/8739/16927217170_83b46b02f1_c.jpg)](http://farm9.static.flickr.com/8739/16927217170_55f897d7aa_o.jpg)
+[![](http://farm8.static.flickr.com/7599/17088821126_3858a7d7ea_c.jpg)](http://farm8.static.flickr.com/7599/17088821126_53396270ab_o.jpg)
+[![](http://farm8.static.flickr.com/7627/16926981748_0f1d1d744f_c.jpg)](http://farm8.static.flickr.com/7627/16926981748_8b931b9225_o.jpg)
+[![](http://farm8.static.flickr.com/7609/16492336094_99727fe63b_c.jpg)](http://farm8.static.flickr.com/7609/16492336094_d291bab411_o.jpg)
+[![](http://farm9.static.flickr.com/8734/17088820316_806de329f9_c.jpg)](http://farm9.static.flickr.com/8734/17088820316_36db612da5_o.jpg)
+[![](http://farm9.static.flickr.com/8710/16926981068_378aee4c6b_c.jpg)](http://farm9.static.flickr.com/8710/16926981068_b60ac6bcaf_o.jpg)

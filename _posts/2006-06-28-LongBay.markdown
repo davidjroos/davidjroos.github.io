@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Long Bay"
+date: 2006-06-28 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: http://farm9.static.flickr.com/8771/16959021678_f9a1361a2c_o.jpg
+---
+[![](http://farm9.static.flickr.com/8739/17146805635_031cbc1794_c.jpg)](http://farm9.static.flickr.com/8739/17146805635_5539fc8bba_o.jpg)
+[![](http://farm8.static.flickr.com/7674/16526628813_78346a0ae5_c.jpg)](http://farm8.static.flickr.com/7674/16526628813_c8f95c3e3d_o.jpg)
+[![](http://farm9.static.flickr.com/8725/17146805105_b187b01120_c.jpg)](http://farm9.static.flickr.com/8725/17146805105_55c3b7053d_o.jpg)
+[![](http://farm8.static.flickr.com/7727/16524371024_c479fb4e6a_c.jpg)](http://farm8.static.flickr.com/7727/16524371024_508750c489_o.jpg)
+[![](http://farm8.static.flickr.com/7679/16939391207_4061efc4ee_c.jpg)](http://farm8.static.flickr.com/7679/16939391207_fcf8891309_o.jpg)
+[![](http://farm9.static.flickr.com/8779/16524370774_7e3ff2fba6_c.jpg)](http://farm9.static.flickr.com/8779/16524370774_24a76fae68_o.jpg)
