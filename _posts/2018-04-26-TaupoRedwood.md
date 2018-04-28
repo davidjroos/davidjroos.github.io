@@ -9,6 +9,8 @@ post_image:
 bw: false
 ---
 
+I can’t say much for Taupo, the lake views are nice but walking around is not recommended.
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7435_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7435_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7435_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7435_800.jpg 800w' sizes='100vw' width='2000'/></p>
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7441_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7441_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7441_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7441_800.jpg 800w' sizes='100vw' width='2000'/></p>
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7449_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7449_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7449_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180426TaupoRedwood/DSCF7449_800.jpg 800w' sizes='100vw' width='2000'/></p>
