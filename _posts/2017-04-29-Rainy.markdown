@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Rain"
+date: 2017-04-29 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: 
+bw: true
+---
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_10_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_10_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_10_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_10_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_12_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_12_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_12_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_12_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_14_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_14_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_14_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_14_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_16_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_16_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_16_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_16_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_2_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_2_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_2_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_2_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_22_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_22_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_22_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_22_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_8_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_8_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_8_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20170429Rainy/Image_8_800.jpg 800w' sizes='100vw' width='2000'/></p>

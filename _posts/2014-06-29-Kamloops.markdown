@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Kamloops"
+date: 2014-06-29 12:00:00 +1200
+category: travel
+tags: [Vancouver]
+description: ""
+post_image: http://farm8.static.flickr.com/7610/16168029354_0080575d80_o.jpg
+---
+There and back.
+
+[![](http://farm4.static.flickr.com/3849/14396334910_fb22de8d1d_c.jpg)](http://farm4.static.flickr.com/3849/14396334910_987f43bf49_o.jpg)
+[![](http://farm4.static.flickr.com/3908/14396334790_b57175c6ce_c.jpg)](http://farm4.static.flickr.com/3908/14396334790_03e6ab3622_o.jpg)
+[![](http://farm4.static.flickr.com/3878/14582248182_d0044164ed_c.jpg)](http://farm4.static.flickr.com/3878/14582248182_3dd1307381_o.jpg)
+[![](http://farm3.static.flickr.com/2898/14603102233_c90d4a10de_c.jpg)](http://farm3.static.flickr.com/2898/14603102233_4295503feb_o.jpg)
+[![](http://farm6.static.flickr.com/5313/14582247722_7db2bb13b9_c.jpg)](http://farm6.static.flickr.com/5313/14582247722_540c2d9f54_o.jpg)
+[![](http://farm3.static.flickr.com/2937/14603101963_bfb012cb11_c.jpg)](http://farm3.static.flickr.com/2937/14603101963_7e4942cf3e_o.jpg)
+[![](http://farm3.static.flickr.com/2921/14396387829_a63c951bba_c.jpg)](http://farm3.static.flickr.com/2921/14396387829_a3f2fa2414_o.jpg)
+[![](http://farm6.static.flickr.com/5274/14396375848_49350fe153_c.jpg)](http://farm6.static.flickr.com/5274/14396375848_ea6f3df434_o.jpg)
+[![](http://farm4.static.flickr.com/3883/14559943856_1aa5970ec0_c.jpg)](http://farm4.static.flickr.com/3883/14559943856_273d9a9c5d_o.jpg)
+[![](http://farm6.static.flickr.com/5509/14559943846_bbbeaee1f7_c.jpg)](http://farm6.static.flickr.com/5509/14559943846_558830e5b5_o.jpg)
+[![](http://farm3.static.flickr.com/2903/14579665511_a429c05b12_c.jpg)](http://farm3.static.flickr.com/2903/14579665511_af4da9c887_o.jpg)
+[![](http://farm4.static.flickr.com/3907/14582247212_2c296ffe24_c.jpg)](http://farm4.static.flickr.com/3907/14582247212_3a2785a42d_o.jpg)
+[![](http://farm4.static.flickr.com/3840/14582247192_ef23d33bc1_c.jpg)](http://farm4.static.flickr.com/3840/14582247192_a6dbc8e31b_o.jpg)
+[![](http://farm3.static.flickr.com/2912/14579665301_b5184f0646_c.jpg)](http://farm3.static.flickr.com/2912/14579665301_f3054a6ff5_o.jpg)
+[![](http://farm6.static.flickr.com/5512/14396333640_b3b793da7d_c.jpg)](http://farm6.static.flickr.com/5512/14396333640_d0dabd8d60_o.jpg)
+[![](http://farm4.static.flickr.com/3882/14396573507_f9f56477db_c.jpg)](http://farm4.static.flickr.com/3882/14396573507_8da51b0105_o.jpg)
