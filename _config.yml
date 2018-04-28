@@ -40,8 +40,8 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme:      tale
-future: true
+#theme:      tale
+future:     true
 permalink:  /:year/:month/:title/
 
 
