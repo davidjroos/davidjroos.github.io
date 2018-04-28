@@ -19,8 +19,7 @@ The Intersections are numbered for discussion. I'll show a historical
 map for each, some example photos and some historical photos to show
 (mostly) that these streets were massive long before cars came along.
 
-1. Drake and Union Street
--------------------------
+## 1\. Drake and Union Street
 
 [![](http://farm4.static.flickr.com/3816/32843738114_6606f0819f_c.jpg)](http://farm4.static.flickr.com/3816/32843738114_9e0c9f6dd3_o.jpg)
 
@@ -88,8 +87,7 @@ Looking south up the centre of Union St (centre) from Patterson St
 Metalace New Zealand Ltd (Sir George Grey Special Collections, Auckland
 Libraries, 4-2004)
 
-2. Drake/Vernon/Wellesley
--------------------------
+## 2\. Drake/Vernon/Wellesley
 
 [![](http://farm4.static.flickr.com/3695/32843737934_664a36f3eb_c.jpg)](http://farm4.static.flickr.com/3695/32843737934_2d512aa3af_o.jpg)
 
@@ -143,8 +141,7 @@ Wellesley Street West to Hobson Street, and Victoria Street West (left),
 St Matthews Church (right centre) (Sir George Grey Special Collections,
 Auckland Libraries, 4-2172)
 
-3. Wellesley/Sale Street
-------------------------
+## 3\. Wellesley/Sale Street
 
 [![](http://farm4.static.flickr.com/3839/32843736094_53f837c21a_c.jpg)](http://farm4.static.flickr.com/3839/32843736094_0274e92856_o.jpg)
 
@@ -243,8 +240,7 @@ corner of Vernon Street and Drake Street (right) and College Hill Road
 (background) (Sir George Grey Special Collections, Auckland Libraries,
 1-W276)
 
-4. Sale/Cook Street
--------------------
+## 4\. Sale/Cook Street
 
 [![](http://farm4.static.flickr.com/3952/33686482625_de3725418f_c.jpg)](http://farm4.static.flickr.com/3952/33686482625_b968c2cb57_o.jpg)
 
@@ -281,13 +277,11 @@ south side of Sale Street, the premises of Steel Construction Company
 and some houses in Freemans Bay (Sir George Grey Special Collections,
 Auckland Libraries, 1-W278)
 
-Who's fault is this?
---------------------
+## Who's fault is this?
 
 I don't care.
 
-Wrapping up
------------
+## Wrapping up
 
 -   Victoria Quarter is singled out in the Auckland District Plan, the
     Auckland Plan and the City Centre Master Plan as a place destined to
@@ -365,15 +359,13 @@ As long as this was, consider the things I haven't covered at all:
     valuable today (look at those little picket fences!)
 -   There used to be a school (schools?) here
 
-Other posts {#previous-posts}
------------
+## Other posts {#previous-posts}
 
 * [Part 1: Introduction]({{ site.baseurl }}{% post_url 2017-03-27-VQpart1 %})
 * [Part 2: Cook Street and Motorway Severance]({{ site.baseurl }}{% post_url 2017-03-27-VQpart2 %})
 * [Part 3: Vehicle Prioritisation and Pedestrian Design Failures]({{ site.baseurl }}{% post_url 2017-03-27-VQpart3 %})
 
-References
-----------
+## References
 
 -   [Auckland District plan (14.10.2.5 Pedestrian access, street quality
     and gateways)](http://www.aucklandcity.govt.nz/council/documents/central/pdfs/part1410.pdf)
