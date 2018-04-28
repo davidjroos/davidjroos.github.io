@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Te Aroha"
+date: 2009-11-15 12:00:00 +1200
+category: travel
+tags: [New Zealand]
+description: ""
+post_image: http://farm8.static.flickr.com/7647/16423310884_3def871536_o.jpg
+---
+[![](http://farm9.static.flickr.com/8718/17044309052_7ea9d2abda_c.jpg)](http://farm9.static.flickr.com/8718/17044309052_b63c0d268f_o.jpg)
+[![](http://farm9.static.flickr.com/8766/16838363497_d3292f9f61_c.jpg)](http://farm9.static.flickr.com/8766/16838363497_fb22e05ff9_o.jpg)
+[![](http://farm9.static.flickr.com/8715/17045766435_6349987590_c.jpg)](http://farm9.static.flickr.com/8715/17045766435_2480913018_o.jpg)
+[![](http://farm8.static.flickr.com/7608/17045765965_645266ece7_c.jpg)](http://farm8.static.flickr.com/7608/17045765965_487774e3dc_o.jpg)
+[![](http://farm9.static.flickr.com/8775/17019753466_6d8efce771_c.jpg)](http://farm9.static.flickr.com/8775/17019753466_31da6333c7_o.jpg)
+[![](http://farm9.static.flickr.com/8713/16858222390_1d19b23587_c.jpg)](http://farm9.static.flickr.com/8713/16858222390_970c384316_o.jpg)
+[![](http://farm9.static.flickr.com/8761/16423311034_5893265800_c.jpg)](http://farm9.static.flickr.com/8761/16423311034_da590a2beb_o.jpg)

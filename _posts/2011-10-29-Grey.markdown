@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Sometimes things are grey"
+date: 2011-10-29 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: http://farm8.static.flickr.com/7615/16652907350_68178a9e6f_o.jpg
+---
+[![](http://farm3.static.flickr.com/2840/9552023005_48e6549f04_c.jpg)](http://farm3.static.flickr.com/2840/9552023005_354b694d64_o.jpg)
+[![](http://farm8.static.flickr.com/7393/9552023655_ee80bbd28a_c.jpg)](http://farm8.static.flickr.com/7393/9552023655_2b29058253_o.jpg)
+[![](http://farm3.static.flickr.com/2866/9554815660_557bcf0493_c.jpg)](http://farm3.static.flickr.com/2866/9554815660_ff53df6031_o.jpg)
+[![](http://farm3.static.flickr.com/2837/9554816386_b38a5be915_c.jpg)](http://farm3.static.flickr.com/2837/9554816386_730c36a87e_o.jpg)
+[![](http://farm4.static.flickr.com/3777/9552025937_be605cdb82_c.jpg)](http://farm4.static.flickr.com/3777/9552025937_0b516ba969_o.jpg)

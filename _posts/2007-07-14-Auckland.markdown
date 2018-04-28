@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Auckland"
+date: 2007-07-14 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: http://farm8.static.flickr.com/7615/17089394376_eac84f6a9e_o.jpg
+---
+[![](http://farm8.static.flickr.com/7713/16929166489_d294f60d51_c.jpg)](http://farm8.static.flickr.com/7713/16929166489_da1b965454_o.jpg)
+[![](http://farm8.static.flickr.com/7655/17115349375_c2dc4011a5_c.jpg)](http://farm8.static.flickr.com/7655/17115349375_32c7198ceb_o.jpg)
+[![](http://farm8.static.flickr.com/7669/16907963977_afa3c09a37_c.jpg)](http://farm8.static.flickr.com/7669/16907963977_5651fb677b_o.jpg)
+[![](http://farm8.static.flickr.com/7689/16929165599_cb03f676d4_c.jpg)](http://farm8.static.flickr.com/7689/16929165599_73f26d0650_o.jpg)
+[![](http://farm9.static.flickr.com/8752/16907963207_ec98187cee_c.jpg)](http://farm9.static.flickr.com/8752/16907963207_512c41211d_o.jpg)
+[![](http://farm8.static.flickr.com/7641/17089395456_1fcba2fae9_c.jpg)](http://farm8.static.flickr.com/7641/17089395456_8d986d2d3d_o.jpg)
+[![](http://farm9.static.flickr.com/8706/17115347945_8e3bf409f1_c.jpg)](http://farm9.static.flickr.com/8706/17115347945_395b9d10e5_o.jpg)
+[![](http://farm9.static.flickr.com/8824/16907962467_7069b855a3_c.jpg)](http://farm9.static.flickr.com/8824/16907962467_ed03c005c7_o.jpg)
+[![](http://farm8.static.flickr.com/7713/16492911554_fbdb996e5e_c.jpg)](http://farm8.static.flickr.com/7713/16492911554_2834e9de3f_o.jpg)

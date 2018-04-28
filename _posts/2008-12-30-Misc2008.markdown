@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Misc 2008"
+date: 2008-12-30 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: http://farm9.static.flickr.com/8760/17048787601_3e6026d5aa_o.jpg
+---
+[![](http://farm9.static.flickr.com/8790/16429441313_94c277076c_c.jpg)](http://farm9.static.flickr.com/8790/16429441313_ef2b06dc90_o.jpg)
+[![](http://farm9.static.flickr.com/8732/16862055890_9f08914056_c.jpg)](http://farm9.static.flickr.com/8732/16862055890_d944817075_o.jpg)
+[![](http://farm8.static.flickr.com/7588/16863373859_9f68b989e5_c.jpg)](http://farm8.static.flickr.com/7588/16863373859_05ec9c61b3_o.jpg)

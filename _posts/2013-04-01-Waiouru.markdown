@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Waiouru"
+date: 2013-04-01 12:00:00 +1200
+category: travel
+tags: [New Zealand]
+description: ""
+post_image: http://farm8.static.flickr.com/7607/16185947294_e22891696d_o.jpg
+---
+[![](http://farm4.static.flickr.com/3731/9587181905_82f13269b8_c.jpg)](http://farm4.static.flickr.com/3731/9587181905_0e1e9c989e_o.jpg)
+[![](http://farm4.static.flickr.com/3818/9587182491_d138f92021_c.jpg)](http://farm4.static.flickr.com/3818/9587182491_abc4d49405_o.jpg)
+[![](http://farm3.static.flickr.com/2849/9589977744_7c8f67cfaf_c.jpg)](http://farm3.static.flickr.com/2849/9589977744_ba93bde118_o.jpg)
+[![](http://farm8.static.flickr.com/7337/9589978520_60b97cdcbc_c.jpg)](http://farm8.static.flickr.com/7337/9589978520_c96030fe6a_o.jpg)
+[![](http://farm4.static.flickr.com/3828/9587184309_3c1f7b1ea4_c.jpg)](http://farm4.static.flickr.com/3828/9587184309_b5861b45ae_o.jpg)
+[![](http://farm4.static.flickr.com/3719/9589980058_ea216f9a83_c.jpg)](http://farm4.static.flickr.com/3719/9589980058_32dc115b06_o.jpg)
+[![](http://farm4.static.flickr.com/3689/9587185929_51bc48c4d5_c.jpg)](http://farm4.static.flickr.com/3689/9587185929_cac6754e75_o.jpg)
+[![](http://farm6.static.flickr.com/5534/9587186453_f8cbcd3109_c.jpg)](http://farm6.static.flickr.com/5534/9587186453_18fd90d2c0_o.jpg)
+[![](http://farm8.static.flickr.com/7433/9587186817_cbdb32b8ec_c.jpg)](http://farm8.static.flickr.com/7433/9587186817_41d0b3155a_o.jpg)
+[![](http://farm4.static.flickr.com/3680/9587187387_39f5781524_c.jpg)](http://farm4.static.flickr.com/3680/9587187387_52ee388ba3_o.jpg)
+[![](http://farm6.static.flickr.com/5471/9587187769_bbda74d34f_c.jpg)](http://farm6.static.flickr.com/5471/9587187769_80fcf72aaf_o.jpg)
+[![](http://farm8.static.flickr.com/7359/9589982928_ca8a50ec11_c.jpg)](http://farm8.static.flickr.com/7359/9589982928_1d67814991_o.jpg)
+[![](http://farm4.static.flickr.com/3684/9589983350_4a69014f86_c.jpg)](http://farm4.static.flickr.com/3684/9589983350_a057ed8ee0_o.jpg)
+[![](http://farm3.static.flickr.com/2808/9589984090_39926fafab_c.jpg)](http://farm3.static.flickr.com/2808/9589984090_ba279fec77_o.jpg)
+[![](http://farm8.static.flickr.com/7320/9589984612_943eca9724_c.jpg)](http://farm8.static.flickr.com/7320/9589984612_d70612415b_o.jpg)
+[![](http://farm4.static.flickr.com/3674/9587190257_9b432de3b6_c.jpg)](http://farm4.static.flickr.com/3674/9587190257_9a8cf2a96c_o.jpg)
+[![](http://farm8.static.flickr.com/7400/9587190797_ba1fab66ae_c.jpg)](http://farm8.static.flickr.com/7400/9587190797_dbd0c2a0c1_o.jpg)
+[![](http://farm3.static.flickr.com/2863/9589986272_2ea634e45d_c.jpg)](http://farm3.static.flickr.com/2863/9589986272_963b70aaa8_o.jpg)
+[![](http://farm8.static.flickr.com/7306/9587192017_de205c2e5b_c.jpg)](http://farm8.static.flickr.com/7306/9587192017_7e3a072d19_o.jpg)
+[![](http://farm3.static.flickr.com/2855/9589987620_86395fbe56_c.jpg)](http://farm3.static.flickr.com/2855/9589987620_434d118e17_o.jpg)
+[![](http://farm4.static.flickr.com/3677/9587193239_3c84011911_c.jpg)](http://farm4.static.flickr.com/3677/9587193239_8026175e6a_o.jpg)
+[![](http://farm3.static.flickr.com/2823/9589988718_0a2f943fc3_c.jpg)](http://farm3.static.flickr.com/2823/9589988718_2f8d6b2f3f_o.jpg)
+[![](http://farm6.static.flickr.com/5458/9589989130_cd4a92bc79_c.jpg)](http://farm6.static.flickr.com/5458/9589989130_ff9a13f98e_o.jpg)
+[![](http://farm6.static.flickr.com/5550/9587195243_55cb149bc0_c.jpg)](http://farm6.static.flickr.com/5550/9587195243_63288d83d9_o.jpg)

@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<div class="catalogue">
+  {% for post in site.posts %}
+    {% capture postyear %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% capture actualyear %}{{site.time | date: '%Y'}}{% endcapture %}
+
+    {% if lastyear != postyear %}
+      {% if postyear == actualyear %}
+        <h1 class="catalogue-bigboy">Lately</h1>
+      {% else %}
+        <h1 class="catalogue-bigboy">{{postyear}}</h1>
+      {% endif %}
+    {% endif %}
+
+    {% capture whatcat %}{{ post.categories }}{% endcapture %}
+
+      <div class="catalogue-row">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+          <h1 class="catalogue-title">{{ post.title }}</h1>
+        </a>
+        <div class="metasub">
+          {% if whatcat == "thoughts" %}
+            {% for tag in post.tags %}
+              <h4 class="catalogue-meta_thoughts">
+                {% if forloop.last %}
+                  {{ tag }}
+                {% else %}
+                  {{ tag }},
+                {% endif %}
+              </h4>
+            {% endfor %}
+          {% endif %}
+
+
+        {% if whatcat == "life" %}
+          {% for tag in post.tags %}
+            <h4 class="catalogue-meta_life">
+              {% if forloop.last %}
+                {{ tag }}
+              {% else %}
+                {{ tag }},
+              {% endif %}
+            </h4>
+          {% endfor %}
+        {% endif %}
+
+        {% if whatcat == "travel" %}
+          {% for tag in post.tags %}
+            <h4 class="catalogue-meta_travel">
+              {% if forloop.last %}
+                <img class="catalogue-flag" src="{{site.baseurl}}/assets/flags/{{tag}}.png"/>
+                {{ tag }}
+              {% else %}
+                <img class="catalogue-flag" src="{{site.baseurl}}/assets/flags/{{tag}}.png"/>
+                {{ tag }},
+              {% endif %}
+            </h4>
+          {% endfor %}
+        {% endif %}
+        <div class="catalogue-time">{{ post.date | date: "%Y-%m-%d" }}</div>
+      </div>
+    </div>
+
+    {% assign lastyear = postyear %}
+  {% endfor %}
+</div>

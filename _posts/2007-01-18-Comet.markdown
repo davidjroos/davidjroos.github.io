@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Comet"
+date: 2007-01-18 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: http://farm8.static.flickr.com/7715/17126933852_9d8633a48d_o.jpg
+---
+[![](http://farm9.static.flickr.com/8827/17102536366_38029c3b02_c.jpg)](http://farm9.static.flickr.com/8827/17102536366_19f7422c8d_o.jpg)
+[![](http://farm9.static.flickr.com/8801/17126934122_0b4e131f96_c.jpg)](http://farm9.static.flickr.com/8801/17126934122_fcb7085312_o.jpg)
+[![](http://farm9.static.flickr.com/8771/17127863281_5818282a27_c.jpg)](http://farm9.static.flickr.com/8771/17127863281_0b01b976ce_o.jpg)
+[![](http://farm8.static.flickr.com/7715/16921105137_2e1c0a2da4_c.jpg)](http://farm8.static.flickr.com/7715/16921105137_9e1c8c168f_o.jpg)
+[![](http://farm8.static.flickr.com/7676/16940957150_6fb0104d47_c.jpg)](http://farm8.static.flickr.com/7676/16940957150_9ae77a4b29_o.jpg)

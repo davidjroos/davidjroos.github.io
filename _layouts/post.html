@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="post">
+  <div class="post-info">
+    {% if page.date %}
+      <div class="post-time">{{ page.date | date: "%B %d, %Y" }}</div>
+    {% endif %}
+  </div>
+  <h1 class="post-title">{{ page.title }}</h1>
+  {{ content }}
+</div>

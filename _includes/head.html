@@ -1,0 +1,36 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    {{ site.title }}
+  </title>
+
+  {% for javascript in site.static_files %}
+    {% if javascript.path contains 'assets/js' %}
+      <script type="text/javascript" src="{{javascript.path | prepend: site.baseurl }}" ></script>
+    {% endif %}
+  {% endfor %}
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+  {% for css in site.static_files %}
+    {% if css.path contains 'assets/css' %}
+      {% if page.bw %}
+        <link rel="stylesheet" property="stylesheet" href="{{css.path | prepend: site.baseurl }}">
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
+</head>

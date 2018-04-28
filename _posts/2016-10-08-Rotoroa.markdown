@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Rotoroa Island"
+date: 2016-10-08 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image:
+---
+[![](http://farm8.static.flickr.com/7463/30164334906_64f0e84786_c.jpg)](http://farm8.static.flickr.com/7463/30164334906_ba7b976598_o.jpg)
+[![](http://farm9.static.flickr.com/8642/29569468933_c83141e654_c.jpg)](http://farm9.static.flickr.com/8642/29569468933_41ea0a8d01_o.jpg)
+[![](http://farm6.static.flickr.com/5226/30164334426_9980317dab_c.jpg)](http://farm6.static.flickr.com/5226/30164334426_88934922a4_o.jpg)
+[![](http://farm6.static.flickr.com/5495/30164334226_2944076244_c.jpg)](http://farm6.static.flickr.com/5495/30164334226_6e21bd0b6d_o.jpg)
+[![](http://farm8.static.flickr.com/7555/30164333996_0be1de5836_c.jpg)](http://farm8.static.flickr.com/7555/30164333996_af53c4c45f_o.jpg)
+[![](http://farm6.static.flickr.com/5493/30164333716_a21bcd2128_c.jpg)](http://farm6.static.flickr.com/5493/30164333716_b171bef4b3_o.jpg)
+[![](http://farm8.static.flickr.com/7474/30164333586_246fd64c10_c.jpg)](http://farm8.static.flickr.com/7474/30164333586_a9e8950fa8_o.jpg)
+[![](http://farm6.static.flickr.com/5825/30164332906_70bcc93b7b_c.jpg)](http://farm6.static.flickr.com/5825/30164332906_bb61a029d2_o.jpg)
+[![](http://farm6.static.flickr.com/5633/30164332656_5a0ae44da2_c.jpg)](http://farm6.static.flickr.com/5633/30164332656_26583995b8_o.jpg)
+[![](http://farm8.static.flickr.com/7513/30113797861_9063649df6_c.jpg)](http://farm8.static.flickr.com/7513/30113797861_fc6af86e5c_o.jpg)
+[![](http://farm6.static.flickr.com/5743/29569466753_c13cf5ee2c_c.jpg)](http://farm6.static.flickr.com/5743/29569466753_602f0a2d94_o.jpg)
+[![](http://farm6.static.flickr.com/5047/30164331516_619e4a87ab_c.jpg)](http://farm6.static.flickr.com/5047/30164331516_1e4b295f90_o.jpg)
+[![](http://farm6.static.flickr.com/5252/30164331086_40ed234f33_c.jpg)](http://farm6.static.flickr.com/5252/30164331086_f3bc78aa91_o.jpg)
+[![](http://farm9.static.flickr.com/8554/30198675335_2e808fde39_c.jpg)](http://farm9.static.flickr.com/8554/30198675335_c2e8d8007c_o.jpg)
+[![](http://farm6.static.flickr.com/5543/30164330686_e1ba9f910a_c.jpg)](http://farm6.static.flickr.com/5543/30164330686_daf680597f_o.jpg)
+[![](http://farm8.static.flickr.com/7504/30198675055_95da8afe16_c.jpg)](http://farm8.static.flickr.com/7504/30198675055_9fe86e3829_o.jpg)
+[![](http://farm6.static.flickr.com/5312/29569516844_e15ddb8da8_c.jpg)](http://farm6.static.flickr.com/5312/29569516844_472cdc60f6_o.jpg)
+[![](http://farm8.static.flickr.com/7479/30198674425_b89a75b44b_c.jpg)](http://farm8.static.flickr.com/7479/30198674425_7bcddeaf48_o.jpg)
+[![](http://farm6.static.flickr.com/5315/30198674525_23ef3653fc_c.jpg)](http://farm6.static.flickr.com/5315/30198674525_2f3fc03465_o.jpg)
+[![](http://farm6.static.flickr.com/5132/29902804500_429e26569e_c.jpg)](http://farm6.static.flickr.com/5132/29902804500_11e74734a3_o.jpg)
+[![](http://farm9.static.flickr.com/8558/29569463563_63aab73abf_c.jpg)](http://farm9.static.flickr.com/8558/29569463563_414bf36ded_o.jpg)
+[![](http://farm9.static.flickr.com/8551/29902803900_bd734a85b8_c.jpg)](http://farm9.static.flickr.com/8551/29902803900_ed7e1f5764_o.jpg)
+[![](http://farm6.static.flickr.com/5482/29569463343_dbe6c1f15f_c.jpg)](http://farm6.static.flickr.com/5482/29569463343_ff030b1415_o.jpg)
+[![](http://farm6.static.flickr.com/5272/29902803120_267cc09cc9_c.jpg)](http://farm6.static.flickr.com/5272/29902803120_b78a29f8d3_o.jpg)
+[![](http://farm6.static.flickr.com/5234/29569515034_46c87800ef_c.jpg)](http://farm6.static.flickr.com/5234/29569515034_8c4d6d00b0_o.jpg)
+[![](http://farm9.static.flickr.com/8559/29902802760_cd489d1af4_c.jpg)](http://farm9.static.flickr.com/8559/29902802760_850c89ffd7_o.jpg)
+[![](http://farm6.static.flickr.com/5271/29569513254_d689d32b04_c.jpg)](http://farm6.static.flickr.com/5271/29569513254_e0e5a38146_o.jpg)
+[![](http://farm8.static.flickr.com/7523/29569514644_be7621bab9_c.jpg)](http://farm8.static.flickr.com/7523/29569514644_958c6fde19_o.jpg)
+[![](http://farm9.static.flickr.com/8128/29902802290_6db542e758_c.jpg)](http://farm9.static.flickr.com/8128/29902802290_46e6c507fa_o.jpg)
+[![](http://farm6.static.flickr.com/5252/29569514844_25e727b5cb_c.jpg)](http://farm6.static.flickr.com/5252/29569514844_3d5f5f2380_o.jpg)
+[![](http://farm6.static.flickr.com/5535/29569513814_3e0433925d_c.jpg)](http://farm6.static.flickr.com/5535/29569513814_337f294fbe_o.jpg)
+[![](http://farm8.static.flickr.com/7467/29569513364_9edf7dcae5_c.jpg)](http://farm8.static.flickr.com/7467/29569513364_724cfb9fc9_o.jpg)
+[![](http://farm6.static.flickr.com/5597/29902801910_42ba0d9c12_c.jpg)](http://farm6.static.flickr.com/5597/29902801910_a212a8903f_o.jpg)
+[![](http://farm6.static.flickr.com/5185/29569512764_7df7c7e427_c.jpg)](http://farm6.static.flickr.com/5185/29569512764_7c0ef43c5a_o.jpg)

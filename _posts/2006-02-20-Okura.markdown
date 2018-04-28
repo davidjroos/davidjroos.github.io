@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Okura"
+date: 2006-02-20 12:00:00 +1200
+category: life
+tags: 
+description: ""
+post_image: http://farm8.static.flickr.com/7707/17153021145_83eba49cbe_o.jpg
+---
+[![](http://farm9.static.flickr.com/8718/17145231732_72a7e09b44_c.jpg)](http://farm9.static.flickr.com/8718/17145231732_475763e766_o.jpg)
+[![](http://farm8.static.flickr.com/7621/16939415787_38cfdd77b4_c.jpg)](http://farm8.static.flickr.com/7621/16939415787_29d19b7ef9_o.jpg)
+[![](http://farm8.static.flickr.com/7629/16524393094_275e938c0f_c.jpg)](http://farm8.static.flickr.com/7629/16524393094_7d0224fc0e_o.jpg)
+[![](http://farm8.static.flickr.com/7613/16524377054_678f8bfbd3_c.jpg)](http://farm8.static.flickr.com/7613/16524377054_52224217f8_o.jpg)
+[![](http://farm9.static.flickr.com/8749/16959272290_e193658080_c.jpg)](http://farm9.static.flickr.com/8749/16959272290_97e89c151e_o.jpg)
+[![](http://farm9.static.flickr.com/8770/16939397317_8948229559_c.jpg)](http://farm9.static.flickr.com/8770/16939397317_c83359f4f3_o.jpg)
+[![](http://farm9.static.flickr.com/8818/16959027518_6467e28186_c.jpg)](http://farm9.static.flickr.com/8818/16959027518_f5366d8d43_o.jpg)
+[![](http://farm9.static.flickr.com/8694/16959271350_b02997ea2e_c.jpg)](http://farm9.static.flickr.com/8694/16959271350_0242d830c7_o.jpg)
