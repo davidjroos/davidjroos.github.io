@@ -3,7 +3,7 @@ layout: post
 title: 'Northcote Tavern'
 date: 2018-03-04 13:47:12 +1200
 category: life
-tags: life
+tags: 
 description: ''
 post_image:
 bw: true
