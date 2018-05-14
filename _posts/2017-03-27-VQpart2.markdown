@@ -7,8 +7,7 @@ tags: [city]
 description: ""
 post_image:
 ---
-Victoria Quarter suffers for the Southern Motorway, and this alignment
-exists to serve the ego of Mayer John Allum:
+Victoria Quarter suffers for the Southern Motorway, and this alignment exists to serve the ego of Mayer John Allum:
 
 > This lack of foresight and common sense was compounded by Auckland
 > city fathers led by former Mayor Sir John Allum, chairman of the
@@ -50,8 +49,7 @@ Indeed.
 showing preparations for the Auckland Harbour Bridge... 1955 (Sir George
 Grey Special Collections, Auckland Libraries, 459-19)*
 
-State Highway 1
----------------
+## State Highway 1
 
 So we got this:
 
@@ -79,8 +77,7 @@ nothing to mitigate the noise or pollution it causes.
 [![](http://farm3.static.flickr.com/2841/32843694474_96a01f6911_c.jpg)](http://farm3.static.flickr.com/2841/32843694474_87733677e9_o.jpg)
 *Union Street*
 
-Cook Street
------------
+## Cook Street
 
 Conversely, I feel that Cook Street is something that can be changed
 today.
@@ -128,7 +125,6 @@ marked speed limit.
 
 [![](http://farm3.static.flickr.com/2858/33557160441_7e27bfb31f_c.jpg)](http://farm3.static.flickr.com/2858/33557160441_d5dd9f7b4e_o.jpg)
 
-
 Once you've crossed onto the traffic island, further difficulties arise
 crossing North to Placemakers or the South to residential units. Going
 North, cars are turning at high speeds around the sweeping right turn,
@@ -139,11 +135,9 @@ left, not pedestrians attempting to cross on their right.
 
 [![](http://farm3.static.flickr.com/2901/33686464815_0c3fce54bf_c.jpg)](http://farm3.static.flickr.com/2901/33686464815_13dec44d0d_o.jpg)
 
-
 (Oh whoops, make that four lanes)
 
 [![](http://farm3.static.flickr.com/2882/33557159831_7a8a41f8cc_c.jpg)](http://farm3.static.flickr.com/2882/33557159831_f1ffd20b1a_o.jpg)
-
 
 Sam Wrigley is made up of two sweeping turns merging into one. It is
 clear in the image below that the width of both roads is very wide and
@@ -151,7 +145,6 @@ intended to allow cars to negotiate the corners at high speeds, with no
 consideration for pedestrian needs.
 
 [![](http://farm3.static.flickr.com/2950/33557159551_1926fa873c_c.jpg)](http://farm3.static.flickr.com/2950/33557159551_e6243a10b3_o.jpg)
-
 
 ### Stop getting in the way of cars, jerk!
 
@@ -162,7 +155,6 @@ you, within this rather bleak streetscape. Many opt instead to use the
 separated Nelson Street bike lane.
 
 [![](http://farm3.static.flickr.com/2822/33686465225_cba8a5e1f9_c.jpg)](http://farm3.static.flickr.com/2822/33686465225_36f6ac2b18_o.jpg)
-
 
 The only proposed changes to Cook Street are related to the SH1
 Additional Waitematā Harbour Crossing project, which ATAP has now
@@ -179,10 +171,7 @@ proposed link road between Sale and Union Streets has the radius
 tightened.
 
 ![](http://farm3.static.flickr.com/2819/33557158661_d7fc8c1c37_c.jpg)
-
-
-A potential outcome of [AWHC
-project](https://www.nzta.govt.nz/assets/projects/awhc/docs/form-assessment-study-report/vol-02-awhc-fasr-drawings-october-2010-part-2.pdf)
+A potential outcome of [AWHC project](https://www.nzta.govt.nz/assets/projects/awhc/docs/form-assessment-study-report/vol-02-awhc-fasr-drawings-october-2010-part-2.pdf)
 
 The previously proposed realignment of the off-ramp up Union Street
 would have solved this issue (and by solved I mean made it someone
@@ -191,8 +180,7 @@ than on Cook Street), but Auckland Council sold the Union Street car
 park to NZTA to use as the Central Incident Response Centre and it's not
 clear who is really in charge of what happens in this area.
 
-Who's fault is this?
---------------------
+## Who's fault is this?
 
 The current arrangement is here simply because no one ever changed
 anything. Cook Street has been this wide since its inception, with the
@@ -203,21 +191,16 @@ was enough, but there was space for more, then why not have as many as
 possible?
 
 ![](http://farm3.static.flickr.com/2931/33686465865_1e23d16313_c.jpg)
-
-
 1928\. Looking east along Cook Street from the vicinity of Morton Street
 towards Hobson Street (top right). (Sir George Grey Special Collections,
 Auckland Libraries, 4-2214)
 
 ![](http://farm3.static.flickr.com/2926/33686465685_71bbf1b631_c.jpg)
-
-
 1928\. Looking west from the vicinity of Nelson Street along Cook Street
 showing Morton Street (centre right). (Sir George Grey Special
 Collections, Auckland Libraries, 4-2216)
 
-What to do?
------------
+## What to do?
 
 In lieu of anything changing and the AWHC being decades away (assuming
 it brings with it any positive change), we need a solution to address
@@ -248,14 +231,12 @@ anything? How are brownfield sites ever going to compete with new
 suburbs if Auckland Council and Auckland Transport treat the non-vehicle
 users of these areas with such disdain?
 
-Next time
----------
+## Next time
 
 Next time I'll be covering vehicle priority and pedestrian design
 failures in area.
 
-Other posts: {#previous-posts}
-------------
+## Other posts:
 
 * [Part 1: Introduction]({{ site.baseurl }}{% post_url 2017-03-27-VQpart1 %})
 * [Part 3: Vehicle Prioritisation and Pedestrian Design Failures]({{ site.baseurl }}{% post_url 2017-03-27-VQpart3 %})
