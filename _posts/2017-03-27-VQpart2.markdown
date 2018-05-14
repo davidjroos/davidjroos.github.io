@@ -9,27 +9,13 @@ post_image:
 ---
 Victoria Quarter suffers for the Southern Motorway, and this alignment exists to serve the ego of Mayer John Allum:
 
-> This lack of foresight and common sense was compounded by Auckland
-> city fathers led by former Mayor Sir John Allum, chairman of the
-> bridge authority. He lobbied the National Roads Board to reconfigure
-> State Highway 1 from its previous designated route around the city
-> (ironically about where State Highway 20 is being retrofitted now at
-> enormous cost) to a route directly through the centre of suburban and
-> inner-city Auckland (causing great damage) and on to the bridge.
+> This lack of foresight and common sense was compounded by Auckland city fathers led by former Mayor Sir John Allum, chairman of the bridge authority. He lobbied the National Roads Board to reconfigure State Highway 1 from its previous designated route around the city (ironically about where State Highway 20 is being retrofitted now at enormous cost) to a route directly through the centre of suburban and inner-city Auckland (causing great damage) and on to the bridge.
 >
-> As former National Cabinet minister W.J. (Jack) Scott recalled in May
-> 1999, State Highway 1 was moved because Sir John feared the toll
-> revenue would be insufficient.
+As former National Cabinet minister W.J. (Jack) Scott recalled in May 1999, State Highway 1 was moved because Sir John feared the toll revenue would be insufficient.
 >
-> Sir John, he said, "had never been associated with a failure. No way
-> was he going to run the bridge at a loss." It was Jack Scott who
-> pointed out that originally the southern and northwestern motorways
-> were meant to be linked as ring road around the city - not slicing
-> through it.
+Sir John, he said, "had never been associated with a failure. No way was he going to run the bridge at a loss." It was Jack Scott who pointed out that originally the southern and northwestern motorways were meant to be linked as ring road around the city - not slicing through it.
 >
-> <i>[Michael Lee (Jun 1, 2009). Michael Lee: Sins of the fathers - legacy
-> of harbour
-> bridge.](http://www.nzherald.co.nz/transport/news/article.cfm?c_id=97&objectid=10575671)</i>
+<i>[Michael Lee (Jun 1, 2009). Michael Lee: Sins of the fathers - legacy of harbour bridge.](http://www.nzherald.co.nz/transport/news/article.cfm?c_id=97&objectid=10575671)</i>
 
 Of course, anywhere the motorway went through would have the same fate -
 perhaps it is unfair to throw Westmere and Ponsonby under that
@@ -45,17 +31,14 @@ particular bus.
 Indeed.
 
 ![](http://farm3.static.flickr.com/2946/32843694044_423953a47b_c.jpg)
-*8 Aug 1955. Aerial view looking south east over Westhaven Boat Harbour
-showing preparations for the Auckland Harbour Bridge... 1955 (Sir George
-Grey Special Collections, Auckland Libraries, 459-19)*
+*8 Aug 1955. Aerial view looking south east over Westhaven Boat Harbour showing preparations for the Auckland Harbour Bridge... 1955 (Sir George Grey Special Collections, Auckland Libraries, 459-19)*
 
 ## State Highway 1
 
 So we got this:
 
 ![](http://farm4.static.flickr.com/3955/33686464445_8d87735453_c.jpg)
-*Aerial, 1968. Sir George Grey Special Collections, Auckland Libraries,
-NZ Map 7341*
+*Aerial, 1968. Sir George Grey Special Collections, Auckland Libraries, NZ Map 7341*
 
 Beyond the removal of the northbound offramp into Franklin Road and the
 realignment of Union Street to make space for a carpark at the end of
@@ -98,7 +81,6 @@ Quarter and the nearest school
 <div class="google-maps">
   <iframe src="https://www.youtube.com/embed/tTIwjViCFvo?feature=oembed" frameborder="0" style="border:0"></iframe>
 </div>
-
 
 Here it is at the other end, narrowed down one lane each way, yet
 somehow still functioning:
@@ -171,7 +153,7 @@ proposed link road between Sale and Union Streets has the radius
 tightened.
 
 ![](http://farm3.static.flickr.com/2819/33557158661_d7fc8c1c37_c.jpg)
-A potential outcome of [AWHC project](https://www.nzta.govt.nz/assets/projects/awhc/docs/form-assessment-study-report/vol-02-awhc-fasr-drawings-october-2010-part-2.pdf)
+*A potential outcome of [AWHC project](https://www.nzta.govt.nz/assets/projects/awhc/docs/form-assessment-study-report/vol-02-awhc-fasr-drawings-october-2010-part-2.pdf)*
 
 The previously proposed realignment of the off-ramp up Union Street
 would have solved this issue (and by solved I mean made it someone
@@ -191,14 +173,10 @@ was enough, but there was space for more, then why not have as many as
 possible?
 
 ![](http://farm3.static.flickr.com/2931/33686465865_1e23d16313_c.jpg)
-1928\. Looking east along Cook Street from the vicinity of Morton Street
-towards Hobson Street (top right). (Sir George Grey Special Collections,
-Auckland Libraries, 4-2214)
+*1928\. Looking east along Cook Street from the vicinity of Morton Street towards Hobson Street (top right). (Sir George Grey Special Collections, Auckland Libraries, 4-2214)*
 
 ![](http://farm3.static.flickr.com/2926/33686465685_71bbf1b631_c.jpg)
-1928\. Looking west from the vicinity of Nelson Street along Cook Street
-showing Morton Street (centre right). (Sir George Grey Special
-Collections, Auckland Libraries, 4-2216)
+*1928\. Looking west from the vicinity of Nelson Street along Cook Street showing Morton Street (centre right). (Sir George Grey Special Collections, Auckland Libraries, 4-2216)*
 
 ## What to do?
 
@@ -225,7 +203,7 @@ required:
     (with a potential realignment around placemakers site up Union, or
     just restricting to one, narrow, lane)
 
-Most of this is *already identified and discussed* in the CCMP and
+Most of this is _already identified and discussed_ in the CCMP and
 District Plan. But where are the actual, tangible, timelined plans to do
 anything? How are brownfield sites ever going to compete with new
 suburbs if Auckland Council and Auckland Transport treat the non-vehicle
