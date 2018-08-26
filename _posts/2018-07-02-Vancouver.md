@@ -181,7 +181,7 @@ Day at leisure
 
 Shoe shopping on the closed-to-cars West 4th, followed by sock shopping for obvious colour coordination reasons. Each store would bring their products and services out onto the roadway with hundreds of people having a relaxed stroll around - nice and festive and unrushed. A Greek food truck was the final 'tick' on the Vancouver to do list (when is Auckland going to get some decent Greek food anyway?).
 
-Lunch was going to be at the lovely VanDusen botanical garden, but a communication/reservervation issue meant a no-goer and a wasted bus ride. We needed up instead at McArthurGlen Designer Outlet (sound of me dying slowly) where had actually-pretty-decent pizza.
+Lunch was going to be at the lovely VanDusen botanical garden, but a communication/reservation issue meant a no-goer and a wasted bus ride. We ended up instead at McArthurGlen Designer Outlet (sound of me dying slowly) where had actually-pretty-decent pizza.
 
 A brief goodbye and BOOM on our way to that wedding.
 
