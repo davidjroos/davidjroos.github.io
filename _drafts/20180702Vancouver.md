@@ -14,6 +14,8 @@ We are heading to a wedding (reception), but it is not in Vancouver. It provides
 #2 July
 ## Kitsilano
 
+Picked up at the airport, after the world's longest wait for luggage. 
+
 We stayed at an AirBnB on West 4th in Kitsalano, mostly for the logistical aspects of bedrooms-times-dollars available, but also a good oppportunity to spend more time outside the Downtown/West End peninsula than we did in an entire year living here. 
 
 Step one is always fighting jet lag, so some fresh air and maximum sunshine were sought. A short loop taking in Volunteer, Margaret Piggot and Point Grey Parks, a beach walk  to Kitsilano Yacht Club and Pool and back was sufficient. At some point lots of ice cream was bought.
@@ -40,7 +42,9 @@ Marine Building from West Hastings Street
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7742_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7742_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7742_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7742_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-St. Paul's Hospital
+I did meet up for lunch (and to buy some Gap shorts because all other shorts are dreadful. Get your shit together New Zealand)
+
+Anyway back with the walking by myself. St. Paul's Hospital
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7755_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7755_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7755_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7755_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -126,8 +130,59 @@ A local restaurant had gone up early in the morning and took out a building next
 
 Back into the West End and down Davie Street to English Bay to find Bahn Mi sandwiches - the place had closed but another was nearby that did a reasonable job. I'd forgotten that the Coke tastes bad in North America. 
 
- <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7859_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7859_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7859_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7859_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7861_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7861_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7861_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7861_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
- From there I got us a bit lost in Stanley Park, eventually finding ourselves at Beaver Lake rather than Lost Lagoon 
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7863_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7863_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7863_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7863_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+ From there I got us a bit lost in Stanley Park, eventually finding ourselves at Beaver Lake rather than Lost Lagoon
+ 
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7866_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7866_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7866_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7866_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7867_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7867_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7867_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7867_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7872_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7872_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7872_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7872_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+After some desperately-looking-for-a-bathroom-because-the-walk-was-much-longer-than-ancipated, we headed back up through Coal Harbour to get the bus back to Kits. I'd never seen this building before, but I like it.
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7875_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7875_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7875_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7875_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+## PoCo BBQ
+
+We headed out into the wilderness of Vancouver, going an extra stop (Burquitlam) on the Skytrain that was possible when we left (aka You've Taken The Skytrain to Not Technically Vancouver Anymore). A visit to the new and very large Safeway preceded a walk to a family friend and then an oddly long and circuitous drive to nearby Pitt River for a BBQ dinner.
+
+Heading back to Burquitlam after dinner was another friends and family event - a meetup at the foot of a new apartment building alongside the train station (and Safeway) 
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7880_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7880_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7880_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7880_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Heading back through the empty parking lot surrounding the Skytrain station was a good reminder about the inherent weirdness of urban planning and free market response.
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7881_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7881_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7881_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7881_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+The station is lovely though, and buildings are popping up around it. Picture a few `burbs in Auckland a few years after the CRL opens/Light Rail goes in - a weird mix of old and new thinking.
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7885_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7885_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7885_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7885_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7886_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7886_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7886_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7886_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7888_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7888_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7888_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7888_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+# July 6
+## Sleeping in and doing little
+
+Day at leisure
+
+# July 7
+## See you later
+
+Shoe shopping on the closed-to-cars West 4th, followed by sock shopping for obvious colour coordination reasons. Each store would bring their products and services out onto the roadway with hundreds of people having a relaxed stroll around - nice and festive and unrushed. A Greek food truck was the final 'tick' on the Vancouver to do list (when is Auckland going to get some decent Greek food anyway?).
+
+Lunch was going to be at the lovely VanDusen botanical garden, but a communication/reservervation issue meant a no-goer and a wasted bus ride. We needed up instead at McArthurGlen Designer Outlet (sound of me dying slowly) where had actually-pretty-decent pizza.
+
+A brief goodbye and BOOM on our way to that wedding.
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180707Vancouver/DSCF7901_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180707Vancouver/DSCF7901_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180707Vancouver/DSCF7901_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180707Vancouver/DSCF7901_800.jpg 800w' sizes='100vw' width='2000'/></p>
