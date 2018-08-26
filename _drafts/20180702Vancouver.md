@@ -118,5 +118,16 @@ Dinner was a BBQ party with some old (and new) friends at Commercial Drive - a 1
 
 Woke up way to early to the smell of someone smoking outside - the worst, but I managed to get back to sleep. Back up again at 9-something (jet lag does make for the most wonderous sleep-ins) and it smelt like the delicious broccoli they make at Gemmayze Street (in St Kevin's Arcade on K'rd, do try it).
 
-Not ideal.
+A local restaurant had gone up early in the morning and took out a building next door. Not ideal, but no was was hurt.
 
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7856_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7856_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7856_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7856_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+## English Bay and Stanley Park
+
+Back into the West End and down Davie Street to English Bay to find Bahn Mi sandwiches - the place had closed but another was nearby that did a reasonable job. I'd forgotten that the Coke tastes bad in North America. 
+
+ <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7860_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7861_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7861_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7861_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7861_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+ From there I got us a bit lost in Stanley Park, eventually finding ourselves at Beaver Lake rather than Lost Lagoon 
