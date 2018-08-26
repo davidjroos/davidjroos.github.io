@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vancouver'
+title: 'Vancouver Essentials'
 date: 2018-07-07 12:45:45 +1200
 category: travel
 tags: [Vancouver]
@@ -14,12 +14,12 @@ We are heading to a wedding (reception), but it is not in Vancouver. It provides
 # 2 July
 ## Kitsilano
 
-Picked up at the airport, after the world's longest wait for luggage. 
+Picked up at the airport, after the world's longest wait for luggage.
 
-We stayed at an AirBnB on West 4th in Kitsalano, mostly for the logistical aspects of bedrooms-times-dollars available, but also a good oppportunity to spend more time outside the Downtown/West End peninsula than we did in an entire year living here. 
+We stayed at an AirBnB on West 4th in Kitsalano, mostly for the logistical aspects of bedrooms-times-dollars available, but also a good oppportunity to spend more time outside the Downtown/West End peninsula than we did in an entire year living here.
 
 Step one is always fighting jet lag, so some fresh air and maximum sunshine were sought. A short loop taking in Volunteer, Margaret Piggot and Point Grey Parks, a beach walk  to Kitsilano Yacht Club and Pool and back was sufficient. At some point lots of ice cream was bought.
- 
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180702Vancouver/DSCF7718_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180702Vancouver/DSCF7718_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180702Vancouver/DSCF7718_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180702Vancouver/DSCF7718_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180702Vancouver/DSCF7731_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180702Vancouver/DSCF7731_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180702Vancouver/DSCF7731_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180702Vancouver/DSCF7731_800.jpg 800w' sizes='100vw' width='2000'/></p>
@@ -29,7 +29,7 @@ Step one is always fighting jet lag, so some fresh air and maximum sunshine were
 # 3 July
 ## Downtown and West End
 
-Everyone else thought that shopping was a good idea, I did not. Instead I went to see all the bits I liked when living here. 
+Everyone else thought that shopping was a good idea, I did not. Instead I went to see all the bits I liked when living here.
 
 Bute Street, around Robinson Street
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7736_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7736_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7736_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7736_800.jpg 800w' sizes='100vw' width='2000'/></p>
@@ -128,7 +128,7 @@ A local restaurant had gone up early in the morning and took out a building next
 
 ## English Bay and Stanley Park
 
-Back into the West End and down Davie Street to English Bay to find Bahn Mi sandwiches - the place had closed but another was nearby that did a reasonable job. I'd forgotten that the Coke tastes bad in North America. 
+Back into the West End and down Davie Street to English Bay to find Bahn Mi sandwiches - the place had closed but another was nearby that did a reasonable job. I'd forgotten that the Coke tastes bad in North America.
 
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7859_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7859_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7859_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7859_800.jpg 800w' sizes='100vw' width='2000'/></p>
@@ -140,7 +140,7 @@ Back into the West End and down Davie Street to English Bay to find Bahn Mi sand
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7863_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7863_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7863_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7863_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
  From there I got us a bit lost in Stanley Park, eventually finding ourselves at Beaver Lake rather than Lost Lagoon.
- 
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7866_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7866_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7866_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7866_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7867_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7867_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7867_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7867_800.jpg 800w' sizes='100vw' width='2000'/></p>
@@ -155,7 +155,7 @@ After some desperately-looking-for-a-bathroom-because-the-walk-was-much-longer-t
 
 We headed out into the wilderness of Vancouver, going an extra stop (Burquitlam) on the Skytrain that was possible when we left Vancouver a few years ago. A visit to the new and very large Safeway preceded a walk to a family friend and then an oddly long and circuitous drive to nearby Pitt River for a BBQ dinner.
 
-Heading back to Burquitlam after dinner was another friends and family event - a meetup at the foot of a new apartment building alongside the train station (and Safeway) 
+Heading back to Burquitlam after dinner was another friends and family event - a meetup at the foot of a new apartment building alongside the train station (and Safeway)
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7880_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7880_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7880_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180705Vancouver/DSCF7880_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
