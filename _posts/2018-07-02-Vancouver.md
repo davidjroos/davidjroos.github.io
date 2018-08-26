@@ -11,7 +11,7 @@ bw: true
 
 We are heading to a wedding (reception), but it is not in Vancouver. It provides a good excuse for some family visits and some old favourites.
 
-#2 July
+# 2 July
 ## Kitsilano
 
 Picked up at the airport, after the world's longest wait for luggage. 
