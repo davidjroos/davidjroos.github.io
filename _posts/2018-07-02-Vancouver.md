@@ -58,13 +58,13 @@ Sunset Beach from Burrard Bridge
 
 ## Evening Wander
 
-Dinner at Black & Blue for steak was followed by everyone agreeing that walking around some more was a good idea, we did just that. Starting at Bute and Alberni, we headed North through the West End and Davie Street down to Sunset beach for sunset, no less.
+Dinner at Black & Blue for steak was followed by everyone agreeing that walking around some more was a good idea. Starting at Bute and Alberni, we headed North through the West End and Davie Street down to Sunset beach for sunset, no less.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7800_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7800_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7800_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7800_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7807_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7807_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7807_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7807_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-I love these 60's monstrosities, for reasons that are unclear to me. They have aged charm of some sort.
+I love these 60's monstrosities, for reasons that are unclear to me. They have an aged charm of some sort.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7809_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7809_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7809_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7809_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -98,7 +98,7 @@ From there it was a decent walk under and along Vancouver's "totally not a motor
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7839_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7839_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7839_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180703Vancouver/DSCF7839_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-#July 4
+# July 4
 ## Brunch and Beer
 
 Joe Fortes. Chicken and Waffles. We can go home now.
