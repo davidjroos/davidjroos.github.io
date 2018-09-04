@@ -1,13 +1,26 @@
 ---
 layout: post
-title: '20180721Romania'
-date: 2018-08-26 13:05:25 +1200
-category: 
-tags:
+title: 'Constanța'
+date: 2018-07-21 13:04:48 +1200
+category: travel
+tags: [Romania]
 description: ''
 post_image:
-bw: false
+bw: true
 ---
+
+# July 20
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9085_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9085_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9085_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9085_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9089_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9089_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9089_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9089_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9090_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9090_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9090_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9090_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9110_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9110_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9110_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9110_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9111_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9111_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9111_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9111_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9115_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9115_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9115_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9115_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9116_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9116_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9116_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180720Romania/DSCF9116_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+# July 21
+
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180721Romania/DSCF9117_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180721Romania/DSCF9117_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180721Romania/DSCF9117_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180721Romania/DSCF9117_800.jpg 800w' sizes='100vw' width='2000'/></p>
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180721Romania/DSCF9118_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180721Romania/DSCF9118_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180721Romania/DSCF9118_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180721Romania/DSCF9118_800.jpg 800w' sizes='100vw' width='2000'/></p>
