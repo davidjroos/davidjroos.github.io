@@ -7,7 +7,7 @@ tags: [Hungary]
 description: ""
 post_image: http://farm2.static.flickr.com/1497/23442601114_47076276ff_o.jpg
 ---
-Dallying
+Dallying.
 
 [![](http://farm6.static.flickr.com/5712/23703042019_a4870e663a_c.jpg)](http://farm6.static.flickr.com/5712/23703042019_a77ff99ae3_o.jpg)
 [![](http://farm2.static.flickr.com/1561/23444076953_281173945f_c.jpg)](http://farm2.static.flickr.com/1561/23444076953_2b4b422359_o.jpg)
