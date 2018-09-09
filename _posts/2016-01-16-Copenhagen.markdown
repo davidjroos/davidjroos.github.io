@@ -12,7 +12,7 @@ It was cold and snowy which was fun. After checking into the hotel and
 adding a couple of layers we walked down towards Nyhavn to eat balls of
 various descriptions at the very excellent The Union Kitchen.
 
-Saturday.... Snow! Just outside the hotel.
+Saturday.... Snow! Just outside the hotel. 
 
 [![](http://farm2.static.flickr.com/1475/24097577669_1c4112060d_c.jpg)](http://farm2.static.flickr.com/1475/24097577669_e695534a2a_o.jpg)
 [![](http://farm2.static.flickr.com/1578/24465375225_5b6fbce462_c.jpg)](http://farm2.static.flickr.com/1578/24465375225_119e349b9c_o.jpg)
