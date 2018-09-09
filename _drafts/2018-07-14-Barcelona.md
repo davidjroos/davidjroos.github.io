@@ -29,7 +29,7 @@ Across to Universitat de Barcelona:
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8577_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8577_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8577_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8577_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-We zigged and zagged our way through the blocks, enjoying the nice footpaths, shade and general sensibility of it all. Arrived at Casa Batlló, and I can't say I'm a fan - too many tourists (hello!) and really, really ugly. 
+We zigged and zagged our way through the blocks, enjoying the nice footpaths, shade and general sensibility of it all. Arrived at Casa Batlló, and I can't say I'm a fan - too many tourists (hello!) and really, really ugly.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8587_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8587_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8587_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8587_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -156,6 +156,10 @@ For flamenco guitar. It could have been a bit more fun, being more challenging a
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8744_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8744_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8744_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8744_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 # July 15
+## Sagrada Familia
+
+So, not everything Gaudi was disappointing.
+
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
