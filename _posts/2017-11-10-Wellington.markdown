@@ -8,7 +8,7 @@ description: ""
 post_image:
 bw: true
 ---
-
+a
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0863_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0863_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0863_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0863_800.jpg 800w' sizes='100vw' width='2000'/></p>
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0868_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0868_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0868_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0868_800.jpg 800w' sizes='100vw' width='2000'/></p>
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0876_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0876_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0876_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20171110Wellington2017/DSCF0876_800.jpg 800w' sizes='100vw' width='2000'/></p>
