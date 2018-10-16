@@ -19,17 +19,19 @@ To bed.
 
 # July 14
 ## Pretty buildings and also Gaudi
-We were staying on Gran Via de les Corts Catalanes which should be the model for all major roads in cities - lots of trees, benches, bus lanes, cycle lanes, plenty of pedestrian space, bike share, metro stations. And yes general traffic lanes.
+We were staying on Gran Via de les Corts Catalanes which should be the model for all major roads in cities - lots of trees, benches, bus lanes, cycle lanes, plenty of pedestrian space, bike share, metro stations, and yes, general traffic lanes.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8574_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8574_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8574_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8574_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-Healthy breakfast at  Buenas Migas on Plaça de la Universitat, probably the only one.
+Healthy breakfast at  Buenas Migas on Plaça de la Universitat, probably the only one we had the whole trip. We tried.
 
 Across to Universitat de Barcelona:
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8577_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8577_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8577_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8577_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-We zigged and zagged our way through the blocks, enjoying the nice footpaths, shade and general sensibility of it all. Arrived at Casa Batlló, and I can't say I'm a fan - too many tourists (hello!) and really, really ugly.
+We zigged and zagged our way through the blocks, enjoying the nice, unencumbered by vehicles and flat footpaths, shade and general sensibility of it all.
+
+Arrived at Casa Batlló, and I can't say I'm a fan - too many tourists (hello!) and really, really ugly. I'm sure I'm missing it, but, yeah. Nah.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8587_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8587_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8587_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8587_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -67,7 +69,7 @@ Looking down Carrer de Sant Vicenç
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8609_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8609_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8609_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8609_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-We were headed to Biblioteca de Catalunya, but it was oddly unsavioury with people just loitering, watching us, so no photos, just one of the exit:
+We were headed to Biblioteca de Catalunya, but it was oddly unsavoury with people just loitering, watching us, so no photos, just one of the exit as we exited:
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8618_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8618_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8618_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8618_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -79,11 +81,13 @@ From there we cut through to the south towards Güell Palace.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8626_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8626_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8626_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8626_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+Much more a fan of this style.
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8628_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8628_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8628_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8628_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 ## Gothic Quarter
 
-Crossing La Rambla puts us in the Gothic Quarter and the first stop was the lovely Plaça Reial
+Crossing La Rambla puts us in the Gothic Quarter and the first stop, after some beers at Kӕlderkold, was the lovely Plaça Reial. The light was awful and I've not done it justice.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8632_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8632_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8632_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8632_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -103,6 +107,8 @@ From there it was a lot of left and rights working our way gradually Northeast
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8662_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8662_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8662_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8662_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+I stopped here to listen, in one of the apartments someone was practicing
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8666_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8666_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8666_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8666_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8668_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8668_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8668_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8668_800.jpg 800w' sizes='100vw' width='2000'/></p>
@@ -115,13 +121,15 @@ From there it was a lot of left and rights working our way gradually Northeast
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8676_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8676_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8676_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8676_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-We stopped for a drink in Plaça de Sant Just and headed south to the roman wall before heading to Catedral de Barcelona
+We stopped for a drink in Plaça de Sant Just and headed south
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8679_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8679_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8679_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8679_800.jpg 800w' sizes='100vw' width='2000'/></p>
-z
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8683_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8683_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8683_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8683_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8695_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8695_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8695_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8695_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Wandered through some design shops along Baixada de Viladecols and eventually to the old  Roman Wall before heading east to Catedral de Barcelona.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8696_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8696_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8696_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8696_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -331,13 +339,13 @@ We paid way too much for the terrible seats we had, but we were there to see the
 
 ## Spare morning at Les Corts
 
-Having pretty much seen what we had wanted to see, we threw a dart on the map and caught a bus out to Les Corts. Had a great breakfast at Brooklyn Cafè, making the most of the Barcelona kerbside cafe culture before we had to go.
+Having pretty much seen what we had wanted to see, we threw a dart on the map and caught a bus out to Les Corts. Had a great breakfast at Brooklyn Cafè, making the most of the Barcelona kerbside café culture before we had to go.
 
 Made our way to Plaça de la Concòrdia to see a gallery in the town hall, but we couldn't find it.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180717Barcelona/DSCF8963_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180717Barcelona/DSCF8963_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180717Barcelona/DSCF8963_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180717Barcelona/DSCF8963_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-Caught the metro to Plaça Espanya and walked back to the hotel along the length of Avinguda del Paral·lel
+Caught the metro to Plaça Espanya and walked back to the hotel along the length of Gran Via de les Corts Catalanes
 ## Airport
 
 Checked out,  figured out where the return bus left from and were on our way. This time towards a wedding!
