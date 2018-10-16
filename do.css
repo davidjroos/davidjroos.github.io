@@ -1,0 +1,78 @@
+html {
+    font-size: 62.5%;
+    height: 100%;
+    max-height: 100%;
+}
+body {
+    max-height: 100%;
+    font-family: 'Merriweather', serif;
+    font-size: 1.6rem;
+    line-height: 1.75em;
+    font-weight: 300;
+    color: #3A4145;
+    text-align: justify;
+    background-color: white;
+    margin: 0;
+}
+
+#site-main {
+max-width: 880px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+
+.themainstuff
+{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+.date {
+    background: none;
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+	font-size: 6rem;
+    line-height: 1.2em;
+    letter-spacing: -1px;
+    text-indent: -2px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    text-align: center;
+}
+
+h4 {
+    text-rendering: optimizeLegibility;
+    line-height: 1em;
+    margin: 4px;
+    font-weight: 300;
+    text-align: left;
+    overflow-wrap: break-word;
+    font-size: 2rem;
+    text-indent: -3px;
+    margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+@media only screen and (max-device-width: 880px) {
+	#site-main
+	{
+		padding-left: 0px;
+	}
+	
+	h1 {
+		font-size: 5rem;
+		margin-bottom: 0;
+		margin-top: 0;
+		padding-top: 16px;
+		padding-bottom: 16px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
+
