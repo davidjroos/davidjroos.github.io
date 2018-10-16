@@ -160,7 +160,6 @@ For flamenco guitar. It could have been a bit more fun, being more challenging a
 
 So, not everything Gaudi was disappointing.
 
-
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8746_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8746_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8746_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8746_800.jpg 800w' sizes='100vw' width='2000'/></p>
