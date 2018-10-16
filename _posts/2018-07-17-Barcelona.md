@@ -118,7 +118,7 @@ From there it was a lot of left and rights working our way gradually Northeast
 We stopped for a drink in Plaça de Sant Just and headed south to the roman wall before heading to Catedral de Barcelona
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8679_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8679_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8679_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8679_800.jpg 800w' sizes='100vw' width='2000'/></p>
-
+z
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8683_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8683_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8683_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8683_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8695_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8695_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8695_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8695_800.jpg 800w' sizes='100vw' width='2000'/></p>
@@ -129,7 +129,9 @@ We stopped for a drink in Plaça de Sant Just and headed south to the roman wall
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8700_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8700_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8700_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8700_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-From there we headed north to Plaça de Catalunya
+Dinner at tantarantana. Paid extra to sit in the heat outside with the smokers.
+
+From there we headed north via jardins del forat de la vergonya to Plaça de Catalunya
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8710_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8710_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8710_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8710_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -156,21 +158,36 @@ For flamenco guitar. It could have been a bit more fun, being more challenging a
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8744_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8744_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8744_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180714Barcelona/DSCF8744_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 # July 15
-## Sagrada Familia
 
-So, not everything Gaudi was disappointing.
+Lazing about in the morning, probably did some laundry, which took ages.
 
-<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_800.jpg 800w' sizes='100vw' width='2000'/></p>
+## Walking
+
+Some pretty/weird buildings
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8746_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8746_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8746_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8746_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8747_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8747_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8747_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8747_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+## Sagrada Família
+
+So, not everything Gaudi was disappointing.
+
+We approached in the late afternoon from the south west, through Plaça de la Sagrada Família
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8751_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8751_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8751_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8751_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+This approach provides a dramatic view of the best side of the church, clean and dramatic.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8754_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8754_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8754_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8754_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+We were early, so hung out in the small bits of shade available - it was very, very hot.
+
+We entered from the north east with 8 million other people.
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8770_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8770_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8770_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8770_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Bee-line for the tower lift
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8775_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8775_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8775_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8775_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -179,6 +196,8 @@ So, not everything Gaudi was disappointing.
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8780_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8780_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8780_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8780_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8784_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8784_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8784_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8784_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Inside the tower
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8788_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8788_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8788_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8788_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -192,13 +211,25 @@ So, not everything Gaudi was disappointing.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8804_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8804_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8804_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8804_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+The Nativity Façade
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8805_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8805_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8805_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8805_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+Fun stairs
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8807_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8807_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8807_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8807_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Back out front.
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8817_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Lots of detail. lots. Too much? It looks grotty rather than grand, the opposite of the other side.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8818_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8818_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8818_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8818_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8822_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8822_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8822_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8822_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Inside the tree canopy...
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8823_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8823_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8823_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8823_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -226,13 +257,19 @@ So, not everything Gaudi was disappointing.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8862_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8862_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8862_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8862_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+Light through the stained glass
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8864_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8864_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8864_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8864_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Out the 'back' (south west) again for a close up look
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8883_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8883_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8883_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8883_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8885_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8885_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8885_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8885_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8888_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8888_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8888_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8888_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+## Heading home
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8892_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8892_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8892_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8892_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -242,7 +279,13 @@ So, not everything Gaudi was disappointing.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8899_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8899_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8899_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180715Barcelona/DSCF8899_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+(via BierCaB for beer and meaty treats)
+
 # July 16
+
+## Window Shopping
+
+Spent the morning window shopping at all the design stores around Avinguda Diagonal
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8918_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8918_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8918_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8918_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -250,13 +293,27 @@ So, not everything Gaudi was disappointing.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8928_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8928_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8928_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8928_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+Casa Milà
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8931_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8931_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8931_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8931_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Back to the hotel to give our feet a break, and make use of the air-conditioning.
+
+## Platja de Sant Sebastià
+
+This seemed like a good idea at the time.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8933_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8933_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8933_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8933_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8939_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8939_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8939_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8939_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+Disappointing food surrounded by smokers, before heading back through the Gothic quarter.
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8948_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8948_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8948_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8948_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+## Gran Teatre del Liceu
+
+We paid way too much for the terrible seats we had, but we were there to see the building more than the music (which was actually quite enjoyable and I could have stayed for the whole thing)
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8950_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8950_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8950_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8950_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
@@ -270,8 +327,17 @@ So, not everything Gaudi was disappointing.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8957_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8957_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8957_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180716Barcelona/DSCF8957_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-
 # July 17
 
+## Spare morning at Les Corts
+
+Having pretty much seen what we had wanted to see, we threw a dart on the map and caught a bus out to Les Corts. Had a great breakfast at Brooklyn Cafè, making the most of the Barcelona kerbside cafe culture before we had to go.
+
+Made our way to Plaça de la Concòrdia to see a gallery in the town hall, but we couldn't find it.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180717Barcelona/DSCF8963_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180717Barcelona/DSCF8963_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180717Barcelona/DSCF8963_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20180717Barcelona/DSCF8963_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Caught the metro to Plaça Espanya and walked back to the hotel along the length of Avinguda del Paral·lel
+## Airport
+
+Checked out,  figured out where the return bus left from and were on our way. This time towards a wedding!
