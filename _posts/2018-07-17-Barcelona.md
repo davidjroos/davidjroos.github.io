@@ -341,7 +341,7 @@ We paid way too much for the terrible seats we had, but we were there to see the
 
 Breakfast at the made-for-Instagram-but-actually-quite-good Brunch & Cake.
 
-Having pretty much seen what we had wanted to see, we threw a dart on the map and caught a bus out to Les Corts. Had a great breakfast at Brooklyn Cafè, making the most of the Barcelona kerbside café culture before we had to go.
+Having pretty much seen what we had wanted to see, we threw a dart on the map and caught a bus out to Les Corts. Had a great lunch at Brooklyn Cafè, making the most of the Barcelona kerbside café culture before we had to go.
 
 Made our way to Plaça de la Concòrdia to see a gallery in the town hall, but we couldn't find it.
 
