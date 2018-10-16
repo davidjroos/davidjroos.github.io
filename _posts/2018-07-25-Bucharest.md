@@ -183,7 +183,7 @@ Anyway, we got out of the station at the wrong end of the massive Piața Charles
 
 ## Bike Tour
 
-We met our guide at the entrance to the huge Parcul Herăstrău and sorted out some bikes. I'm very fussy it turns out and rental bikes are all garbage. The brakes mostly worked and my back didn't hurt too much, so off we went.
+We met our guide at the entrance to the huge Parcul Herăstrău and sorted out some bikes. It turns out that I'm very fussy (?!?!) and that rental bikes are all garbage. The brakes mostly worked and my back didn't hurt too much, so off we went.
 
 We start at Lacul Herăstrău, looking out to what is now Casa Presei Libere  (House of Free Press) - originally built as the Communist Government's printing press.
 
@@ -260,7 +260,7 @@ Great views, cold beer.
 
 ## More Walking
 
-From there we just walked back to the hotel. Nearly there, Emily grabbed a coffee that for some reason has tonic water in it. It was not good, in fact terrible. A very bad idea that should not take off. Felt no shame wasting that drink. Looked at some Bromptons and bike accessories.
+From there we just walked back to the hotel. Nearly there, Emily grabbed a coffee that for some reason had tonic water in it. It was not good, in fact terrible. A very bad idea that should not take off. Felt no shame wasting that drink. Looked at some Bromptons and bike accessories.
 
 Finally at the hotel, we cleaned up, packed and caught a fancy taxi (everything is so cheap in Romania!) to the airport, leaving without issue.
 
@@ -268,4 +268,4 @@ Finally at the hotel, we cleaned up, packed and caught a fancy taxi (everything 
 
 A short flight had us in the very civilised Munich airport waiting for our transfer to Hong Kong. Our half of the airport was a bit weak, so we caught the shuttle to the other side to get some essentials and snacks before heading back.
 
-The flight was delayed an hour or two, but we managed.
+The flight was delayed an hour or two, but we managed. Basically heading home at this point.
