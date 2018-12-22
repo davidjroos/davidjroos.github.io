@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '20181217capepalliser'
-date: 2018-12-22 22:18:03 +1300
+title: 'Cape Palliser'
+date: 2018-12-17 22:18:03 +1300
 category: travel
 tags: [New Zealand]
 description: ''
