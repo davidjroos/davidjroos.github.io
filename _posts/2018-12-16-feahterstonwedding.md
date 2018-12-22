@@ -13,11 +13,11 @@ bw: true
 
 Landed in Wellington, raining.
 
-One very foggy/rainy drive from Wellington over the Rimutaka Hill and we're in the lovely Featherston.
+One very foggy/rainy drive over the Rimutaka Hill and we're in the lovely Featherston.
 
 # Martinborough
 
-Woke up next day and went to Martinborough; drank wine, saw art shit, meandered through every store. There are some nice hotel/pubs, but we did not go inside any. THe square was nice, but had weird pedestrian crossings that I have mixed feelings about. Emily was accused of stealing a stinky round Balinese bag, but she is just so far ahead of the trends.
+Woke up next day and went to Martinborough; drank wine, saw art, meandered through every store. There are some nice hotel/pubs, but we did not go inside any. The square was nice, but had weird pedestrian crossings that I have mixed feelings about. Emily was accused of stealing a stinky round Balinese bag, but she is just so far ahead of the trends.
 
 # Featherston
 
