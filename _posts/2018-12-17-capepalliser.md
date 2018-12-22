@@ -2,11 +2,11 @@
 layout: post
 title: '20181217capepalliser'
 date: 2018-12-22 22:18:03 +1300
-category: 
-tags:
+category: travel
+tags: [New Zealand]
 description: ''
 post_image:
-bw: false
+bw: true
 ---
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1141_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1141_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1141_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1141_800.jpg 800w' sizes='100vw' width='2000'/></p>
@@ -29,6 +29,20 @@ bw: false
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1240_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1240_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1240_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1240_800.jpg 800w' sizes='100vw' width='2000'/></p>
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1247_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1247_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1247_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1247_800.jpg 800w' sizes='100vw' width='2000'/></p>
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1250_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1250_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1250_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1250_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+# A bit of Wellington too
+
+Another lovely drive over the Rimutaka Hill and we're back in Wellington. I'm heading to the airport, Emily sticking around another day for work.
+
+Point Halswell
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1253_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1253_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1253_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1253_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Karaka Bay
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1260_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1260_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1260_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1260_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1261_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1261_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1261_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181217capepalliser/DSCF1261_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+Then the airport.
