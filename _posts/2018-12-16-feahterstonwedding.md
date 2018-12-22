@@ -9,19 +9,31 @@ post_image:
 bw: true
 ---
 
-# Featherston
+# Friday 14 December 
+
+## Arrival
+
+Landed in Wellington, raining.
 
 One very foggy/rainy drive from Wellington over the Rimutaka Hill and we're in the lovely Featherston.
 
-Woke up next day and went to Martinborough, wine, art shit, every store, some nice hotel/pubs. Nice square, had weird pedestrian crossings. Emily accused of stealing bag, but she is just so far ahead of the trends. 
+# Saturday 15 December
 
-Went toFeatherston Domain for a Walk (/very short amble up a hill until a Tui scared Emily)
+## Martinborough
+
+Woke up next day and went to Martinborough; drank wine, saw art shit, meandered through every store. There are some nice hotel/pubs, but we did not go inside any. THe square was nice, but had weird pedestrian crossings that I have mixed feelings about. Emily was accused of stealing a stinky round Balinese bag, but she is just so far ahead of the trends.
+
+## Featherston
+
+Went to Featherston Domain for a walk/very short amble up a hill until a Tui scared Emily
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181216featherstonwedding/DSCF1062_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181216featherstonwedding/DSCF1062_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181216featherstonwedding/DSCF1062_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181216featherstonwedding/DSCF1062_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
 The bach
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181216featherstonwedding/DSCF1073_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181216featherstonwedding/DSCF1073_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181216featherstonwedding/DSCF1073_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181216featherstonwedding/DSCF1073_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+## The Wedding
 
 The venue, relaxing between official events
 
