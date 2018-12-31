@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Martins Bay'
-date: 2019-12-29 09:47:40 +1300
-category: 
-tags:
+date: 2018-12-29 09:47:40 +1300
+category: travel
+tags: [New Zealand]
 description: ''
 post_image:
 bw: true
