@@ -9,8 +9,6 @@ post_image:
 bw: true
 ---
 
-# Martins Bay
-
 A holiday park. Nice sun rises, though sleeping in would be nice also.
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181229martinsbay/DSCF1267_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181229martinsbay/DSCF1267_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181229martinsbay/DSCF1267_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/20181229martinsbay/DSCF1267_800.jpg 800w' sizes='100vw' width='2000'/></p>
