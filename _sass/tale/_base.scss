@@ -11,10 +11,10 @@ body {
 
 html {
   font-family: $serif-primary;
-  font-size: 12px;
+  font-size: small;
 
   @media (min-width: 600px) {
-    font-size: 12px;
+    font-size: small;
   }
 }
 
@@ -34,17 +34,7 @@ h6 {
 }
 
 h4{
-  text-rendering: optimizeLegibility;
-  line-height: 20px;
-  font-weight: 300;
-  text-align: left;
-  overflow-wrap: break-word;
-  font-size: 20px;
-  text-indent: -3px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-left: 4px;
-  margin-right: 4px;
+  font-size: 19px;
 }
 
 a {
