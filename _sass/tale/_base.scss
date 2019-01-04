@@ -94,3 +94,12 @@ td {
     top: 0;
     width: 100% !important;
 }
+
+table, td, th {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+    border: 0.7px solid #b7b7b7;
+    padding: 4px;
+}
