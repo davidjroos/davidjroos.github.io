@@ -9,14 +9,15 @@ post_image:
 bw: false
 ---
 
+### Western Victoria Quarter Part 5a: Some Progress
 
-# Western Victoria Quarter Part 5a: Some Progress
+Part 5a doesn't officially exist, but I got a bike lane between Victoria Park and Nelson Street as well as a signalised crossing on Cook Street, near Morton. Union Street will be much better. Yay.
 
-Part 5a doesn't exist, but I got a bike lane between Victoria Park and Nelson Street as well as a signalised crossing on Cook Street, near Morton. Union Street will be much better. Yay.
+Well, in about 6 more months.
 
-Well, , in about 6 more months.
+A tactical intersection change was proposed for Sale/Wellesley, but AT stole it from the ADO and it's gone silent for months. Must chase that up....
 
-A tactical intersection change was proposed for Sale/Wellesley, but AT stole it from the ADO and it's gone silent.
+Anyway, onto todays story, AKA:
 
 # Western Victoria Quarter Part 5b: The Ticketing
 
