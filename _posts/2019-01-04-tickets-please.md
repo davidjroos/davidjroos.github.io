@@ -21,11 +21,11 @@ Anyway, onto todays story, AKA:
 
 # Western Victoria Quarter Part 5b: The Ticketing
 
-You'll notice above that nothing is happening at Drake and Vernon. This will likely get resolved (well, hopefully) when the Wellesley Street bis upgrade happens.
+You may notice above that nothing is happening at the Drake\Vernon intersection. This will likely (hopefully) get resolved (well, hopefully) when the Wellesley Street bis upgrade happens.
 
-Also you'll notice that nothing at all has happened to address any of the footpath issues raised. This has endlessly frustrated me, and I've been meaning to (politely) bombard AT with tickets to get official responses on each issue. Either progress is made, or I have a clear "AT refuses to follow ATs own standards for footpaths" to take to the Local Board, Planning Comittee, ACCAB etc.
+You may also notice that nothing at all has happened to address any of the footpath issues raised. This has endlessly frustrated me, and I've been meaning to (politely) bombard AT with tickets to get official responses on each issue. Either progress is made, or I have a clear "AT refuses to follow ATs own standards for footpaths" to take to the Local Board, Planning Comittee, ACCAB etc.
 
-I will revisit this post with ticket numbers and response timeframes
+So today I did that. I will revisit this post with ticket numbers and response timeframes
 
 All tickets raised (Friday) 4 January 2019 and are reproduced verbatim below (with attached images)
 
