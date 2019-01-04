@@ -9,7 +9,7 @@ post_image:
 bw: false
 ---
 
-### Western Victoria Quarter Part 5a: Some Progress
+## Western Victoria Quarter Part 5a: Some Progress
 
 Part 5a doesn't officially exist, but I got a bike lane between Victoria Park and Nelson Street as well as a signalised crossing on Cook Street, near Morton. Union Street will be much better. Yay.
 
@@ -19,7 +19,7 @@ A tactical intersection change was proposed for Sale/Wellesley, but AT stole it 
 
 Anyway, onto todays story, AKA:
 
-# Western Victoria Quarter Part 5b: The Ticketing
+## Western Victoria Quarter Part 5b: The Ticketing
 
 You may notice above that nothing is happening at the Drake\Vernon intersection. This will likely (hopefully) get resolved (well, hopefully) when the Wellesley Street bis upgrade happens.
 
