@@ -17,7 +17,7 @@ The downsides are expected in any city - less square meters for your dollar, the
 
 But the balance tips, for the majority of the time, towards the benefits of the city for the people that choose to make it home. You accept the downsides as an acceptable trade-off for the benefits.
 
-But there are limits.
+But there are limits...
 
 # You must suffer any arbitrary burden I place on you
 
