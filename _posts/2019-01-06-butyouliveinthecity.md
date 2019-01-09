@@ -1,12 +1,13 @@
 ---
 layout: post
-title: '"But you chose to live in the city"'
-date: 2001-01-06 12:00:00 +1200
+title: '"But you live in the city"'
+date: 2019-01-06 12:00:00 +1200
 category: thoughts
 tags: [city]
 description: ""
 post_image:
 bw: false
+draft: true
 ---
 
 # You deserve whatever happens to you
