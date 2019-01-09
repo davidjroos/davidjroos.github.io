@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="catalogue">
   {% for post in site.posts %}
+   {% unless post.draft %}
     {% capture postyear %}{{post.date | date: "%Y"}}{% endcapture %}
     {% capture actualyear %}{{site.time | date: '%Y'}}{% endcapture %}
 
@@ -66,5 +67,6 @@ layout: default
     </div>
 
     {% assign lastyear = postyear %}
+   {% endunless %}
   {% endfor %}
 </div>
