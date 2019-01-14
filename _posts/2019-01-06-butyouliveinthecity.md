@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"But you live in the city"'
+title: But you live in The City
 date: 2019-01-06 12:00:00 +1200
 category: thoughts
 tags: [city]
@@ -12,29 +12,42 @@ draft: true
 
 # You deserve whatever happens to you
 
-As a resident in Auckland's City Centre there are a variety of benefits and compromises. You have an ever changing myriad of job, entertainment,dining and shopping opportunities within walking distance. The widest variety of destinations available to you via transit (and ferry) in the whole country. The best bike lanes in the city. Theatres, movie cinemas, food from every region, from food courts fo fine dining. 
+As a resident in Auckland's City Centre there are a variety of benefits and compromises. I have an ever changing myriad of job, entertainment,dining and shopping opportunities within walking distance and the widest variety of destinations available to me via transit (and ferry) in the whole of New Zealand. The best bike lanes in the city. Theatres, movie cinemas, food from every region of the world. Food courts to fine dining. 
 
-The downsides are expected in any city - less square meters for your dollar, the sounds of a bustling city day and night, light pollution, an absence of bird song beyond seagulls squawking, the full spectrum of emergency sirens, drunkenness and buffoons in loud vehicles of all descriptions. Many of these downsides largely contribute to the positive column - an open window to the sounds of the world around you provides a connected feeling and being part of something bigger. 
+The downsides are expected in any city - less square meters for your dollar, no garden, the sounds of a bustling city day and night, light pollution, an absence of bird song beyond seagulls squawking, the full spectrum of emergency sirens, drunkenness and buffoons in loud vehicles of all descriptions. But many of these downsides largely contribute to the positive column - an open window to the sounds of the world around you provides a connected feeling and being part of something bigger and having less space means reduced consumption, be it energy or a soda stream machine that you just can't justify the space for. These are good things - empathy and consideration for others, reduced energy usage, less money spent, and a less sad planet. 
 
-But the balance tips, for the majority of the time, towards the benefits of the city for the people that choose to make it home. You accept the downsides as an acceptable trade-off for the benefits.
+The balance tips, for the majority of the time, towards the benefits of the city for the people that choose to make it home. (Maybe its not for you, but remember that for every person who does like it,its one less person competing with you at auctions, for rental properties, at the motorway on-ramp, for a seat on the bus or a table at the new cafe in your neighbourhood. Next time you're sitting in traffic on Nelson Street, why not look up at the little boxes and thank the people who live there for living there, so that you don't have to).
 
-But there are limits...
+I accept the downsides as an acceptable trade-off for the benefits - I feel lost in the suburbs, trapped by distance, tied to a car, unable to walk for any other reason than aimless leisure.
+
+But there are limits to the downsides.
 
 # You must suffer any arbitrary burden I place on you
 
-There are basic needs that all humans need - sleep being a big one.
+There are basic needs that all humans need - sleep being a big one. I am a human. My wife is a human. My neighbours - all human.
 
-The test I apply to any situation is "if that happened outside your house".
+My goal is to find some empathy from you, the reader who believes me to be deserving of my punishment, because already I sense the title of this post forming on your lips. I am pained to write this, because it seems, to me at least, quite odd to ask my neighbours, friends and colleagues to consider that I am as equally deserving of the full spectrum of basic rights that you are. But here we are. I'm sure you have good reasons that make you feel quite justified in treating me this way.
 
-You would probably be unhappy if a 10x3m wide digital (i.e. illuminated) billboard was erected outside your house in St. Helliers and it illuminated your bedroom with its shifting colours and patterns (on its 8 second rotation). I can't imagine any person looking forward to such a thing - the situation clearly providing commercial gain for someone while a landlord gets paid and you, your sleep and your sanity bere the true cost of the sign.
+So we start at the beginning: "if that happened outside your house"
+
+You would probably be unhappy if a 10x3m digital (i.e. illuminated) billboard was erected outside your house in [your suburb] and it illuminated your bedroom with its shifting colours and patterns (on its 8 second rotation) throughout the dark hours of e day, 7 days a week, 365 days a year? Lets pretend for a minute that it's compliant with council regulations for brightness (LOL) as if that matters. I'm struggling to imagine any person looking forward to such a thing - the situation clearly providing commercial gain for some company while a landlord gets paid for hosting it and you, your sleep and your sanity, bare the true cost of the sign with nothing to show for it.
+
+So now not your suburb, someone who lives on the city fringe - outside the motorway ring. How about Newton?
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+This area is 90% residential. Barely any businesses, no bars, no nightclubs. Two digital advertising boards that effects far more people than in the one in your neighbourhood might.
 
 But if I tell you that it happened to me, and that I'm not pleased about it, you would simply state "but you chose to live in the city", as if that nullifies the basic needs of darkness for humans to sleep. By me choosing to live in the city, you believe that I have given up all right to any form of solitude or sleep, and having advertisements burned into my retinas is acceptable to you.
 
-But what exactly does a digital billboard have to do with the city centre? Cities such as Vancouver ban all outdoor advertising, Amsterdam certainly doesn't have any and no one would call it lacking vibrancy or life. Why is it, in someone's head, a fact of life in the city?
+But what exactly does a digital billboard have to do with the city centre, I ask? Cities such as Vancouver ban all outdoor advertising, Amsterdam certainly doesn't have any and no one would call it lacking vibrancy or life. Why is it, in your head, a fact of life in the city?
 
 And that is the crux - there is a perception that the "CBD" is a blank slate that exists devoid of life and you can do whatever you want *to* it, without any justification and without any consequence. This applies to personal behaviour, CCO's such as AT and WaterCare, construction consents, profit driven light and sound pollution, Council run and approved events, and pretty much anything else. It's is a mindset deeply embedded in all layers of bureaucracy.
 
 I suspect that this is a perception born from the emptying out of the city and the subsequent suburban mindsets. In Amsterdam, the people out on a Friday night all live there, nearby, or in a different part of town that is equally bustling. It breeds a level of respect and understanding. In Auckland, people travel from far and wide to enter a place that they appreciate and enjoy, expecting that place and those who all it home (if that was ever a consideration) to tolerate whatever they decide it should, based on their own selfish needs and desires - things they would never do and never tolerate where they live.
+
+# Lines on a map
+
 
 # NIMBY!
 
