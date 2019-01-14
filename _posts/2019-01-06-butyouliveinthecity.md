@@ -20,37 +20,55 @@ The balance tips, for the majority of the time, towards the benefits of the city
 
 I accept the downsides as an acceptable trade-off for the benefits - I feel lost in the suburbs, trapped by distance, tied to a car, unable to walk for any other reason than aimless leisure.
 
-But there are limits to the downsides.
+But there are limits to one's tolerance for these downsides.
 
 # You must suffer any arbitrary burden I place on you
 
 There are basic needs that all humans need - sleep being a big one. I am a human. My wife is a human. My neighbours - all human.
 
-My goal is to find some empathy from you, the reader who believes me to be deserving of my punishment, because already I sense the title of this post forming on your lips. I am pained to write this, because it seems, to me at least, quite odd to ask my neighbours, friends and colleagues to consider that I am as equally deserving of the full spectrum of basic rights that you are. But here we are. I'm sure you have good reasons that make you feel quite justified in treating me this way.
+My goal is to find some empathy from you, the reader who believes me to be deserving of any arbitrary punishment, because already I sense the title of this post forming on your lips. I am pained to write this, because it seems, to me at least, quite odd to ask my neighbours, friends and colleagues to consider that I am as equally deserving of the full spectrum of basic rights that you are. But here we are. I'm sure you have good reasons that make you feel quite justified in treating me this way.
 
 So we start at the beginning: "if that happened outside your house"
 
 You would probably be unhappy if a 10x3m digital (i.e. illuminated) billboard was erected outside your house in [your suburb] and it illuminated your bedroom with its shifting colours and patterns (on its 8 second rotation) throughout the dark hours of e day, 7 days a week, 365 days a year? Lets pretend for a minute that it's compliant with council regulations for brightness (LOL) as if that matters. I'm struggling to imagine any person looking forward to such a thing - the situation clearly providing commercial gain for some company while a landlord gets paid for hosting it and you, your sleep and your sanity, bare the true cost of the sign with nothing to show for it.
 
-So now not your suburb, someone who lives on the city fringe - outside the motorway ring. How about Newton?
+You'd have a good whinge about it.
+
+So now not your suburb, someone who lives on the city fringe - outside the motorway ring. How about Eden Terrace?
+
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
-This area is 90% residential. Barely any businesses, no bars, no nightclubs. But two digital advertising boards (that I am aware of anyway) that effect far more people than in the one in your neighbourhood might. I'm hoping you are forming some form of distinction here.
 
-But if I tell you that it happened to me, and that I'm not pleased about it, you would simply state "but you chose to live in the city", as if that nullifies the basic needs of darkness for humans to sleep. By me choosing to live in the city, you believe that I have given up all right to any form of solitude or sleep, and having advertisements burned into my retinas is acceptable to you.
+Specifically between Ian McKinnon and Symonds - this area is almost entirely residential and adjacent to leafy Mt Eden. No bars, no nightclubs. But two digital advertising boards (that I am aware of, anyway) that effect far more people than in the one in your neighbourhood might. I'm hoping you are forming some form of distinction here and see the problems these Aucklanders face.
 
-But what exactly does a digital billboard have to do with the city centre, I ask? Cities such as Vancouver ban all outdoor advertising, Amsterdam certainly doesn't have any and no one would call it lacking vibrancy or life. Why is it, in your head, a fact of life in the city?
+But if I tell you that it happened to me in the City Centre, and that I'm not pleased about it, you would simply state "but you chose to live in the city", as if that nullifies the basic needs of darkness for humans to sleep. By me choosing to live in the city, you believe that I have given up all right to any form of solitude or sleep, and having advertisements burned into my retinas is acceptable to you, and I'm not sure either of us know exactly why.
 
-And that is the crux - there is a perception that the "CBD" is a blank slate that exists devoid of life and you can do whatever you want *to* it, without any justification and without any consequence. This applies to personal behaviour, CCO's such as AT and WaterCare, construction consents, profit driven light and sound pollution, Council run and approved events, and pretty much anything else. It's is a mindset deeply embedded in all layers of bureaucracy.
+What exactly does a digital billboard have to do with the city centre? Cities such as Vancouver ban all outdoor advertising, Amsterdam certainly doesn't have any and no one would call it lacking vibrancy or life. Why is it, in your head, a fact of life in the city?
 
-I suspect that this is a perception born from the emptying out of the city and the subsequent suburban mindsets that the city is a business area by day that empties out at night to become a big party zone that exists for your pleasure and exploitation. But that is not true now, and likely never was - even 20 years ago 10,000 people live there. Think about how many people 10,000 is. *Ten Thousand*. It's 57,000 now. You can't even picture that many people - I can't. In some other parts of the world where most people live in dense(r), urban environments, there is no such things as a "CBD" - just a collection of neighbourhoods with work and play nearby. The people out on a Friday night all live there, nearby, or in a different part of town that is equally bustling. It breeds a level of respect and understanding because you know what it is like when civility and compassion is left at the door. In Auckland, people travel from far and wide to enter a place that they appreciate and enjoy, expecting that place (and those who call it home, if that was ever a consideration) to tolerate whatever they decide it should, based on their own selfish needs and desires - things that they would never do and never tolerate where they live.
+The same applies to any nuisance - noise, pollution, poor behaviour. These things do not define places, they are undesirable and modern society is arranged to minimise them for all members of that society.
+
+So what is the difference between Eden Terrace and the city centre that excuses everyone from feeling any guilt for these nuisances, exactly?
+
+# Lines on a map
+
+There is no magical thing that happens as you cross the Symonds Street motorway overbridge from Eden Terrace into the City Centre. I presume it all rests on the crux of 'the bars were there first and you knew that when you moved there', but most nuisances are not bars - the police and liquor licensing agents do a (relatively...) decent job in that regard. We've all just collectively decided that this is how the city centre must be. 
+
+And that is the crux. There is a perception that the "CBD" is a blank slate that exists devoid of life and you can do whatever you want *to* it, without any justification and without any consequence. This applies to personal behaviour, CCO's such as AT and WaterCare, construction consents, profit driven light and sound pollution, street space allocations (i.e. big, wide roads), Council run and approved events, and pretty much anything else. It's is a mindset deeply embedded in all layers of bureaucracy and society.
+
+This is a perception born from the emptying out of the city and the subsequent mindset that the city is a business area by day that empties out at night to become a big party zone that exists for your pleasure and exploitation. But that is not true now, and probably never was - even 20 years ago 10,000 people lived there. Think about how many people 10,000 is. *Ten Thousand*.
+
+It's 57,000 people now. That's a lot more than Invercargil and only a smidge less than New Plymouth, Whangarei or Rotorua.
+
+Here is a photo of some cranes building another 155 houses in the city centre for you to look at while that sinks in.
+
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/DSCF1411_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/DSCF1411_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/DSCF1411_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/DSCF1411_800.jpg 800w' sizes='100vw' width='2000'/></p>
+
+In some other parts of the world where most people live in dense(r), urban environments, there is no such things as a "CBD" - just a collection of neighbourhoods with work and play nearby. The people out on a Friday night all live there, nearby, or in a different part of town that is equally bustling. It breeds a level of respect and understanding because you know what it is like when civility and compassion is left at the door. In Auckland, people travel from far and wide to enter a place that they appreciate and enjoy, but do not respect - expecting that place (and those who call it home, if that was ever a consideration) to tolerate whatever they decide it should, based on their own selfish needs and desires - things that they would never do and never tolerate where they live. This includes big roads that do not serve residents (Nelson, Hobson etc.)
 
 I'm talking about Amsterdam in my example above, the city I lived in before coming back to Auckland. And don't you roll your eyes at me, because Auckland city centre is more densely populated than the Centrum (That's Dutch for "the middle bit where all the things are") borough of Amsterdam, the nearest analog to the City Centre.
 
-Keep in mind that the Netherlands has an overall population density of 488 people/km<sup>2</sup> (17 million total) vs New Zealand's 15 people/km<sup>2</sup> (not a typo) and hopefully you'll start to realise how extraordinary the population of the City Centre is in the context of New Zealand and how your disdain for the needs of its residents is coming from a perspective that is now more understandable to me, but in need of radical adjustment.
-
-# Lines on a map
+Keep in mind that the Netherlands has an overall population density of 488 people/km<sup>2</sup> (17 million total) vs New Zealand's 17 people/km<sup>2</sup> (not a typo). Centrum makes up 0.005% of the total population, Auckland's City Centre makes up 0.01% - twice as much. Hopefully now you'll start to realise how extraordinary the population of the City Centre is in the context of New Zealand and how your disdain for the needs of its residents is coming from a perspective that is in need of radical adjustment at your end (now more understandable to me at least).
 
 
 # NIMBY!
