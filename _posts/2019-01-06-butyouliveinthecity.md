@@ -109,12 +109,12 @@ This one is also easy to fix. Don't assume you know how loud anything is, and th
 
 I'm not asking for the city to cease functioning, cease being a city. I'm asking for the people that visit and make decisions around the city centre to remember that residents exist and to take what are really simple steps to not ruin our lives through nothing more than carelessness, ignorance our the simple malice that I'm trying to argue against here.
 
-<p> </p>
+<p> </p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-150-temp2/_DSC9726_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-150-temp2/_DSC9726_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-150-temp2/_DSC9726_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-150-temp2/_DSC9726_800.jpg 800w' sizes='100vw' width='2000'/></p>
 *Hellscape*
 
-<p> </p>
+<p> </p>
 
 # Change is impossible.
 
