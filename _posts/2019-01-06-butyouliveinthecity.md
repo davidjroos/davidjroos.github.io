@@ -116,7 +116,7 @@ I'm not asking for the city to cease functioning, cease being a city. I'm asking
 
 <p> </p>
 
-# Change is impossible.
+# Change is impossible
 
 So lets look at *you* for a minute.
 
@@ -136,8 +136,6 @@ Oh dear, The council decided to have a concert at the park on the corner of your
 
 Did someone break into your house and is now standing over your bed screaming in your face at 4am? Too bad, you chose to live in the suburbs and I've decided that's an ok thing to do there, because *I* don't live there.
 
-You dirty hypocrite.
-
 # You are protected
 
 Everything in the list above is being dealt with, luckily. For you.
@@ -153,6 +151,8 @@ I don't know for sure if the police will come to sort out kids doing burnouts in
 There are laws in place to protect 'residential' areas from a variety of nuisance issues issues, like a neighbour causing undue smell, or light pollution. We in the city centre are fair game for everything; as much noise, light and air pollution as *you* deem to impose on us and its enshrined in planning policy and mentality.
 
 The council would never put on an event of such a scale in your neighbourhood without extensive planning and considerations for your safety, traffic, alcohol issues etc. The city is seen as a place to do this, and it should be - we live there because of this activity - but no amount of soundproofing can stop a big subwoofer and line of sight of loud speakers, so considerations could be made for impact mitigation on neighbours and information about when events are happening and until when. Just being good neighbours, you know? But we are ignored and treated as a nuisance, a barrier to YOU coming to our neighbourhood to have a good time at OUR expense. You are more important than we are. 
+
+Presumably it is still illegal to break and enter. Not sure if shouting at someone is breaking any specific law though.
 
 # NIMBY!!!!!!
 
@@ -234,10 +234,4 @@ So we have a set of expectations that have been delivered to us. We are not maki
 
 Well I tried.
 
-Just know, I love the city centre, far more than you do. I don't want to ruin what is good about it. I just want to sleep.
-
-Since you read the whole thing, here is a photo I took of Persepolis as a reward. It's probably a metaphor or something .
-
-<p> </p>
-<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-15-temp/_DSC0657_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-15-temp/_DSC0657_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-15-temp/_DSC0657_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-15-temp/_DSC0657_800.jpg 800w' sizes='100vw' width='2000'/></p>
-<p> </p>
+Just know, I love the city centre, far more than you do. I don't want to ruin what is good about it. I just want to sleep and be safe.
