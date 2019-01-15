@@ -36,9 +36,13 @@ You'd have a good whinge about it.
 
 So now not your suburb, someone who lives on the city fringe - outside the motorway ring. How about Eden Terrace?
 
+<p> </p>
 
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/APC_0198_800.jpg 800w' sizes='100vw' width='2000'/></p>
 
+*Eden Terrace*
+
+<p> </p>
 
 Specifically between Ian McKinnon and Symonds - this area is almost entirely residential and adjacent to leafy Mt Eden. No bars, no nightclubs. But two digital advertising boards (that I am aware of, anyway) that effect far more people than in the one in your neighbourhood might. I'm hoping you are forming some form of distinction here and see the problems these Aucklanders face.
 
@@ -62,14 +66,16 @@ It's 57,000 people now. That's a lot more than Invercargil and only a smidge les
 
 Here is a photo of some cranes building another 155 houses in the city centre for you to look at while that sinks in.
 
+<p> </p>
 <p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/DSCF1411_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/DSCF1411_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/DSCF1411_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-14-temp/DSCF1411_800.jpg 800w' sizes='100vw' width='2000'/></p>
+*Union Green*
+<p> </p>
 
 In some other parts of the world where most people live in dense(r), urban environments, there is no such things as a "CBD" - just a collection of neighbourhoods with work and play nearby. The people out on a Friday night all live there, nearby, or in a different part of town that is equally bustling. It breeds a level of respect and understanding because you know what it is like when civility and compassion is left at the door. In Auckland, people travel from far and wide to enter a place that they appreciate and enjoy, but do not respect - expecting that place (and those who call it home, if that was ever a consideration) to tolerate whatever they decide it should, based on their own selfish needs and desires - things that they would never do and never tolerate where they live. This includes big roads that do not serve residents (Nelson, Hobson etc.)
 
 I'm talking about Amsterdam in my example above, the city I lived in before coming back to Auckland. And don't you roll your eyes at me, because Auckland city centre is more densely populated than the Centrum (That's Dutch for "the middle bit where all the things are") borough of Amsterdam, the nearest analog to the City Centre.
 
-Keep in mind that the Netherlands has an overall population density of 488 people/km<sup>2</sup> (17 million total) vs New Zealand's 17 people/km<sup>2</sup> (not a typo). Centrum makes up 0.005% of the total population, Auckland's City Centre makes up 0.01% - twice as much. Hopefully now you'll start to realise how extraordinary the population of the City Centre is in the context of New Zealand and how your disdain for the needs of its residents is coming from a perspective that is in need of radical adjustment at your end (now more understandable to me at least).
-
+Keep in mind that the Netherlands has an overall population density of 488 people/km<sup>2</sup> (17 million total) vs New Zealand's 17 people/km<sup>2</sup> (not a typo). Hopefully now you're starting to realise how extraordinary the population of the City Centre is in the context of New Zealand and how your disdain for the needs of its residents is coming from a perspective that is in need of radical adjustment (and one that is now more understandable to me at least).
 
 # NIMBY!
 
