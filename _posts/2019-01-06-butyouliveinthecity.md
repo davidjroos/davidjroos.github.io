@@ -228,3 +228,9 @@ So we have a set of expectations that have been delivered to us. We are not maki
 Well I tried.
 
 Just know, I love the city centre, far more than you do. I don't want to ruin what is good about it. I just want to sleep.
+
+Since you read the whole thing, here is a photo I took of Persepolis as a reward. It's probably a metaphor or something .
+
+<p> </p>
+<p class='wideimage'><img src='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-15-temp/_DSC0657_800.jpg' srcset='https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-15-temp/_DSC0657_2000.jpg 2000w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-15-temp/_DSC0657_1200.jpg 1200w, https://s3-ap-southeast-2.amazonaws.com/davidroos.co.nz/photos/2019-01-15-temp/_DSC0657_800.jpg 800w' sizes='100vw' width='2000'/></p>
+<p> </p>
