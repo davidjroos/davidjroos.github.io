@@ -2,8 +2,8 @@
 layout: post
 title: 'Melbourne'
 date: 2019-05-05 20:03:13 +1200
-category: 
-tags:
+category: travel
+tags: [Australia]
 description: ''
 post_image:
 bw: false
