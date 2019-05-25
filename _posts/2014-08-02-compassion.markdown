@@ -42,7 +42,7 @@ that you're a bit of a selfish arsehole.
 
 I believe that those basics should be accessible to everyone, no matter
 how stupid or lazy. I believe this to be compassion, and that's my
-starting point. \
+starting point.
 
 I'm not going to try and go into the future of what jobs will be
 replaced (I'm guessing 'all but machine manufacturers and service
