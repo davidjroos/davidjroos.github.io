@@ -1,0 +1,49 @@
+## Amazon Web Services Config
+# Your AWS access key ID (note: can be supplied via environment variable)
+aws_access_key_id: 'AKIAJ3K3VL5WJM3YX7JA'
+
+# Your AWS secret access key (note: can be supplied via environment variable)
+aws_secret_access_key: 'dhmJqLwRkUjY66/+OfoHVDcJkauFS7dxNT1f/ADi'
+
+# The name of the AWS S3 bucket you want to upload to
+aws_s3_bucket: 'davidroos.co.nz'
+
+# The AWS region your bucket resides in
+aws_region: 'ap-southeast-2'
+
+# The default acl value used when uploading to S3
+aws_default_acl: 'public-read'
+
+# The value used when uploading original copies of images to S3
+aws_original_copy_acl: 'private'
+
+# Valid ACL values:
+# 'private', 'public-read', 'public-read-write',
+# 'authenticated-read', 'bucket-owner-read', 'bucket-owner-full-control'
+
+## Image Maniupulation Config
+
+# These values denote the width of each size in pixels
+# thumbnail_image_size: 125
+small_image_size: 800
+medium_image_size: 1200
+large_image_size: 2000
+
+# This value sets the quality level for normal resized versions of images
+normal_quality_value: 95
+
+# This value sets the quality level for low quality versions of images
+low_quality_value: 25
+
+## Miscellaneous Config
+
+# Controls whether or not low quality duplicates of images will be generated
+# Useful for loading lower quality images first and replacing with their higher
+# quality counterparts after the page has loaded
+generate_low_quality: false
+
+# Controls whether or not image color profiles and comments should be removed
+# Stripping out this metadata will result in lower filesizes
+strip_color_profiles: true
+
+object_key_prefix: photos
