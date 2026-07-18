@@ -38,25 +38,31 @@ layout: default
 
 
         {% if whatcat == "life" %}
-          {% for tag in post.tags %}
-            <h4 class="catalogue-meta_life">
-              {% if forloop.last %}
-                {{ tag }}
-              {% else %}
-                {{ tag }},
-              {% endif %}
-            </h4>
-          {% endfor %}
+            {%- for tag in post.tags -%}
+                <h4 class="catalogue-meta_life">{{ tag }}</h4>
+                {% unless forloop.last %}
+                    <h4 class="catalogue-meta_comma">,</h4>
+                {% endunless %}
+            {%- endfor -%}
+        {% endif %}
+        
+        {% if whatcat == "kb" %}
+            {%- for tag in post.tags -%}
+                <h4 class="catalogue-meta_kb">{{ tag }}</h4>
+                {% unless forloop.last %}
+                    <h4 class="catalogue-meta_comma">,</h4>
+                {% endunless %}
+            {%- endfor -%}
         {% endif %}
 
         {% if whatcat == "travel" %}
           {% for tag in post.tags %}
             <h4 class="catalogue-meta_travel">
               {% if forloop.last %}
-                <img class="catalogue-flag" src="{{site.baseurl}}/assets/flags/{{tag}}.png"/>
+                <img class="catalogue-flag" src="{{site.baseurl}}/assets/flags/{{tag}}.svg"/>
                 {{ tag }}
               {% else %}
-                <img class="catalogue-flag" src="{{site.baseurl}}/assets/flags/{{tag}}.png"/>
+                <img class="catalogue-flag" src="{{site.baseurl}}/assets/flags/{{tag}}.svg"/>
                 {{ tag }},
               {% endif %}
             </h4>

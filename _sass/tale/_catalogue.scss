@@ -9,7 +9,7 @@
   &-container {
     margin-top: 10px;
     margin-bottom: 1px;
-    padding-left: 4px;
+    padding-left: 0px;
   }
 
   &-item {
@@ -21,8 +21,9 @@
     font-family: sans-serif;
     color: gainsboro;
     margin: 0px;
-    margin-left: 4px;
-    line-height: 10px;
+    margin-left: 2px;
+    line-height: 12px;
+    padding-bottom: 5px;
   }
 
   &-bigboy {
@@ -39,14 +40,34 @@
     font-size: 0.82rem;
     font-weight: 300;
     letter-spacing: 0.5px;
+    margin: 0px;
+    padding-left: 0px;
+    text-indent: 1px;
+    display: inline-block
+  }
+  
+  &-meta_comma {
+  	color: gainsboro;
+    font-size: x-small;
+    letter-spacing: 0.5px;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block
+  }
+
+  &-meta_travel {
+  	color: #689ef0;
+    font-size: 0.82rem;
+    font-weight: 300;
+    letter-spacing: 0.5px;
     margin-top: 1px;
     margin-bottom: 0px;
     text-indent: 1px;
     display: inline;
   }
-
-  &-meta_travel {
-  	color: #689ef0;
+  
+  &-meta_kb {
+  	color: #9b59b6;
     font-size: 0.82rem;
     font-weight: 300;
     letter-spacing: 0.5px;
@@ -61,16 +82,20 @@
     font-size: 0.82rem;
     font-weight: 300;
     letter-spacing: 0.5px;
-    margin-top: 1px;
-    margin-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
     text-indent: 1px;
-    display: inline;
+    display: inline-block
   }
 
   &-flag {
   	display: inline;
     margin: 0px;
-    margin-right: 4px;
+    margin-left: -2px;
+    margin-right: 1px;
+    margin-bottom: -1px;
+    width: auto;
+    height: 12px;
   }
 
   .metasub {

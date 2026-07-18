@@ -14,11 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: things
-email: davidjroos@gmail.com
 description: all of the things
 baseurl: ""
-url: "https://davidroos.co.nz"
-twitter_username: jimjamjunglejam
+url: "https://rooves.net"
 
 timezone: Pacific/Auckland
 
@@ -43,6 +41,7 @@ markdown: kramdown
 #theme:      tale
 future:     true
 permalink:  /:year/:month/:title/
+#permalink:  /:categories/:year/:month/:title
 
 
 #paginate:   1000

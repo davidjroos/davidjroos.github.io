@@ -8,4 +8,5 @@ _site
 .Trashes
 ehthumbs.db
 Thumbs.db
+Gemfile.lock
 
