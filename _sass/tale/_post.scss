@@ -65,6 +65,13 @@
       hyphens: auto;
       word-wrap: break-word;
     }
+    
+    .highlighter-rouge {
+        padding-left: 2px !important;
+        padding-right: 2px !important;
+        background-color: unset !important;
+        color: inherit;
+    }
 
     font-size: small;
     text-align: left;
@@ -74,6 +81,8 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  
   a {
     color: inherit;
     transition: color ease 0.3s;
@@ -143,6 +152,7 @@
   }
 
   blockquote {
+    border-left: 8px solid #FFDF77;
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
@@ -168,6 +178,31 @@
       margin-bottom: 0.2rem;
       padding-left: 25px;
       line-height: 22px;
+    }
+    
+    p {
+        padding-left: 8px
+    }
+    
+
+    
+    .callout {
+        margin: 0px 0px 0px 8px;
+        p {
+            padding: 4px;
+            margin: 4px
+        }
+    }
+    
+    .highlighter-rouge {
+        padding-left: 2px !important;
+        padding-right: 2px !important;
+        background-color: unset !important;
+        @media only screen and (max-device-width: 880px) {
+            margin-left: 0px;
+            margin-right: 25px;
+            padding: 4px 0px;
+        }
     }
   }
 
@@ -224,4 +259,98 @@
       }
     }
   }
+  
+  
+    .callout {
+        box-sizing: border-box;
+        max-width: 800px;
+        margin: 0.5rem 0.5rem;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 4px 0px;
+        align-content: left;
+        @media only screen and (max-device-width: 880px) {
+            margin-left: 25px;
+            margin-right: 25px;
+        }
+        p {
+            padding: 4px;
+            margin: 4px
+        }
+    }
+
+    .highlighter-rouge {
+        box-sizing: border-box;
+        max-width: 880px;
+        margin: 0.5rem 0.5rem;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 4px 40px;
+        @media only screen and (max-device-width: 880px) {
+            margin-left: 25px;
+            margin-right: 25px;
+            padding: 4px 0px;
+        }
+        @media only screen and (max-device-width: 600px) {
+          hyphens: auto;
+          word-wrap: break-word;
+        }
+
+    }
+
+    .callout-content {
+        display: flex;
+        gap: 4px;
+        background-color: #f8f9fa;
+        border-left: 5px solid #0d6efd;
+        border-radius: 4px;
+    }
+      
+    .callout-text { 
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: small;
+        text-align: left;
+    }
+    .callout-icon {
+        margin-top: 8px;
+        margin-left:4px;
+        width: 20px;
+        height: 20px;
+    }
+    
+
+    .callout-info {
+        background-color: #e8f4fd;
+        border-left-color: #2196f3;
+        color: #155e99;
+        display: flex;
+        gap: 4px;
+        border-radius: 4px;
+    }
+    
+    .callout-warning {
+        background-color: #fff3cd;
+        border-left-color: #ffc107;
+        color: #664d03;
+        display: flex;
+        gap: 4px;
+        border-radius: 4px;
+    }
+
+    .callout-danger {
+        background-color: #fde8e8;
+        border-left-color: #f44336;
+        color: #610d0d;
+        display: flex;
+        gap: 4px;
+        border-radius: 4px;
+    }
+    
+
+  
+  
+  
+  
+  
 }
