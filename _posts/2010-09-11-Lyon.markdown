@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Lyon Day 1"
-date: 2010-09-11 12:00:00 +1200
+permalink: 2010/09/lyon-day-1
+redirect_from:
+  - posts/2010-09-11-lyon-day-1
+date: 2010-09-11
 category: travel
 tags: [France]
 description: ""

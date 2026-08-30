@@ -23,7 +23,8 @@ timezone: Pacific/Auckland
 # Build settings
 markdown: kramdown
 # theme: minima
-#plugins:
+plugins:
+  - jekyll-redirect-from
 #  - jekyll-picture-tag
 
 # Exclude from processing.

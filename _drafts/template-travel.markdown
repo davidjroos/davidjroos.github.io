@@ -6,6 +6,7 @@ category: travel
 tags: [country]
 description: ""
 post_image:
-bw: true
+bw: false
+draft: true
 ---
 

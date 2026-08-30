@@ -3,10 +3,10 @@ layout: post
 title: ""
 date: YYYY-MM-DD 12:00:00 +1200
 category: thoughts
-tags: [city,society]
+tags: [city,society, music]
 description: ""
 post_image:
-post_image:
-bw: true
+bw: false
+draft: true
 ---
 

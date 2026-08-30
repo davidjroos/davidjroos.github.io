@@ -3,7 +3,7 @@ layout: post
 title: "VIAL on Keychron v6 Max (ANSI)"
 date: 2026-07-19 12:00:00 +1200
 category: kb
-tags: [keyboards]
+tags: [Keyboard]
 description: ""
 post_image:
 bw: false

@@ -1,0 +1,15 @@
+<!-- _includes/callout.html -->
+<div class="callout-wrapper">
+  <div class="callout-content callout-{{ include.type | default: 'info' }}">
+    <svg class="callout-icon" viewBox="0 0 24 24" fill="currentColor">
+      {% if include.type == 'warning' %}
+        <path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/>
+      {% elsif include.type == 'danger' %}
+        <path d="M12 2a8 8 0 0 0-8 8v1a4 4 0 0 0 1.17 2.83l1.24 1.17c.38.36.59.87.59 1.4V19a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-2.6c0-.53.21-1.04.59-1.4l1.24-1.17A4 4 0 0 0 20 11v-1a8 8 0 0 0-8-8zm-3 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm6 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm-5 6h4v1.5h-4V17z"/>
+      {% else %}
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+      {% endif %}
+    </svg>
+    <div class="callout-text">{{ include.text }} </div>
+  </div>
+</div>
