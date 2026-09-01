@@ -318,7 +318,6 @@
         width: 20px;
         height: 20px;
     }
-    
 
     .callout-info {
         background-color: #e8f4fd;
@@ -327,6 +326,23 @@
         display: flex;
         gap: 4px;
         border-radius: 4px;
+    }
+    
+    .callout-quote {
+        background: none;
+        border-left-color: inherit;
+        border-left-width: 3px;
+        color: inherit;
+        font-style: italic;
+        display: flex;
+        gap: 4px;
+        border-radius: 0px;
+        p {
+            margin-top: 0px;
+            margin-bottom: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+        }
     }
     
     .callout-warning {
@@ -346,11 +362,4 @@
         gap: 4px;
         border-radius: 4px;
     }
-    
-
-  
-  
-  
-  
-  
 }
