@@ -6,7 +6,7 @@ permalink: 2019/09/see-you-in-a-bit
 redirect_from:
   - posts/2019-09-29-see-you-in-a-bit
 category: life
-tags: 
+tags: [I'll just need a minute]
 description: ''
 post_image: 
 bw: false

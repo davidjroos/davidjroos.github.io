@@ -6,7 +6,7 @@ permalink: 2018/08/mount-hobson
 redirect_from:
   - posts/2018-08-18-mount-hobson
 category: life
-tags: 
+tags: [Views]
 description: ''
 post_image: 
 bw: true

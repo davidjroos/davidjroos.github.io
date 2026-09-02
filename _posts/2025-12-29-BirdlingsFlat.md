@@ -3,7 +3,7 @@ layout: post
 title: 'Birdlings Flat'
 date: 2025-12-29 21:50:34 +1200
 category: life
-tags: 
+tags: [Lots of Rocks]
 description: ''
 post_image: 
 bw: true

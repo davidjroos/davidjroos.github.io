@@ -6,7 +6,7 @@ permalink: 2018/11/north-head
 redirect_from:
   - posts/2018-11-16-north-head
 category: life
-tags: 
+tags: [Views]
 description: ''
 post_image: 
 bw: true

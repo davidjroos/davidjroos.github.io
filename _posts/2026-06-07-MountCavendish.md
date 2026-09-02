@@ -3,7 +3,7 @@ layout: post
 title: 'Mount Cavendish'
 date: 2026-06-07 20:37:49 +1200
 category: life
-tags: 
+tags: Gondalas
 description: ''
 post_image: 
 bw: true

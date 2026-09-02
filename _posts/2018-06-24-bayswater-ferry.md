@@ -6,7 +6,7 @@ permalink: 2018/06/bayswater-ferry
 redirect_from:
   - posts/2018-06-24-bayswater-ferry
 category: life
-tags: 
+tags: [Trapped]
 description: ''
 post_image: 
 bw: false
